@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "text": {
+            "exampleCode": "./live-examples/html-examples/input/text.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-text.html",
+            "title": "Демо HTML: <input type=\"text\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "interactive-examples",
+    "version": "0.0.0",
+    "description": "Interactive code examples embedded on webdoky.org",
+    "author": "WebDoky",
+    "license": "MPL-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webdoky/interactive-examples.git"
+    },
+    "bugs": {
+        "url": "https://github.com/webdoky/interactive-examples/issues"
+    },
+    "homepage": "https://github.com/webdoky/interactive-examples#readme",
+    "main": "index.js",
+    "scripts": {
+        "build": "mdn-bob",
+        "start-server": "http-server -p 9090 ./docs",
+        "start-watch": "chokidar '**/{*.js,*.css,*.html,*.json}' -i 'package.json' -i 'docs/**' -i 'node_modules/**' -i 'js/editor-*.js' -c 'yarn run build' --initial --silent",
+        "start": "npm-run-all --parallel start-watch start-server",
+        "lint:js": "eslint ./live-examples/js-examples",
+        "lint:js:fix": "eslint --fix ./live-examples/js-examples",
+        "test": "yarn lint:js"
+    },
+    "keywords": [],
+    "devDependencies": {
+        "@babel/core": "^7.18.5",
+        "@babel/eslint-parser": "^7.18.2",
+        "chokidar-cli": "^3.0.0",
+        "eslint": "^8.18.0",
+        "http-server": "^14.1.1",
+        "mdn-bob": "https://github.com/webdoky/bob.git",
+        "npm-run-all": "^4.1.5",
+        "prettier": "^2.7.1",
+        "prettier-eslint": "^15.0.1",
+        "prettier-stylelint": "^0.4.2",
+        "stylelint": "^14.9.1"
+    }
+}
