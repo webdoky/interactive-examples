@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "globalpropsParseInt": {
+            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
+            "fileName": "globalprops-parseint.html",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти — parseInt()",
+            "type": "js"
+        }
+    }
+}

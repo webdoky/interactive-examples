@@ -36,6 +36,12 @@
             "title": "Демо JavaScript: Array.indexOf()",
             "type": "js"
         },
+        "arrayJoin": {
+            "exampleCode": "./live-examples/js-examples/array/array-join.js",
+            "fileName": "array-join.html",
+            "title": "Демо JavaScript: Array.join()",
+            "type": "js"
+        },
         "arrayMap": {
             "exampleCode": "./live-examples/js-examples/array/array-map.js",
             "fileName": "array-map.html",
