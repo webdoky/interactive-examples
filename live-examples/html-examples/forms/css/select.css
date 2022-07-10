@@ -21,6 +21,6 @@ footer {
 }
 
 .output {
-    background: center/cover no-repeat url('/media/cc0-images/hamster.jpg');
+    background: center/cover no-repeat url('/interactive-examples/media/cc0-images/hamster.jpg');
     position: relative;
 }
