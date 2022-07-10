@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "select": {
+            "exampleCode": "./live-examples/html-examples/forms/select.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/select.css",
+            "fileName": "select.html",
+            "title": "Демо HTML: <select>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}

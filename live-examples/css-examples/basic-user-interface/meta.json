@@ -1,0 +1,18 @@
+{
+    "pages": {
+        "boxSizing": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/box-sizing.css",
+            "exampleCode": "./live-examples/css-examples/basic-user-interface/box-sizing.html",
+            "fileName": "box-sizing.html",
+            "title": "Демо CSS: box-sizing",
+            "type": "css"
+        },
+        "cursor": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/cursor.css",
+            "exampleCode": "./live-examples/css-examples/basic-user-interface/cursor.html",
+            "fileName": "cursor.html",
+            "title": "Демо CSS: cursor",
+            "type": "css"
+        }
+    }
+}

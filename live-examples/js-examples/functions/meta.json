@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "functionsArrow": {
+            "exampleCode": "./live-examples/js-examples/functions/functions-arrow.js",
+            "fileName": "functions-arrow.html",
+            "title": "Демо JavaScript: Functions =>",
+            "type": "js"
+        }
+    }
+}

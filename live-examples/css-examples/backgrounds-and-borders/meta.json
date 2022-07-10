@@ -1,0 +1,39 @@
+{
+    "pages": {
+        "background": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/background.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/background.html",
+            "fileName": "background.html",
+            "title": "Демо CSS: background",
+            "type": "css"
+        },
+        "backgroundColor": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/background.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/background-color.html",
+            "fileName": "background-color.html",
+            "title": "Демо CSS: background-color",
+            "type": "css"
+        },
+        "backgroundImage": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/background.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/background-image.html",
+            "fileName": "background-image.html",
+            "title": "Демо CSS: background-image",
+            "type": "css"
+        },
+        "border": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/border.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/border.html",
+            "fileName": "border.html",
+            "title": "Демо CSS: border",
+            "type": "css"
+        },
+        "boxShadow": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/box-shadow.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/box-shadow.html",
+            "fileName": "box-shadow.html",
+            "title": "Демо CSS: box-shadow",
+            "type": "css"
+        }
+    }
+}

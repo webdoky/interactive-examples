@@ -1,0 +1,22 @@
+{
+    "pages": {
+        "statementAsync": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-async.js",
+            "fileName": "statement-async.html",
+            "title": "Демо JavaScript: Statement - Async",
+            "type": "js"
+        },
+        "statementForIn": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-forin.js",
+            "fileName": "statement-forin.html",
+            "title": "Демо JavaScript: Statement - For...In",
+            "type": "js"
+        },
+        "statementForOf": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-forof.js",
+            "fileName": "statement-forof.html",
+            "title": "Демо JavaScript: Statement - For...Of",
+            "type": "js"
+        }
+    }
+}

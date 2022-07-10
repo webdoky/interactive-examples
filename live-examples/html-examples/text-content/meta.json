@@ -1,0 +1,28 @@
+{
+    "pages": {
+        "div": {
+            "exampleCode": "./live-examples/html-examples/text-content/div.html",
+            "cssExampleSrc": "./live-examples/html-examples/text-content/css/div.css",
+            "fileName": "div.html",
+            "title": "Демо HTML: <div>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
+        "hr": {
+            "exampleCode": "./live-examples/html-examples/text-content/hr.html",
+            "cssExampleSrc": "./live-examples/html-examples/text-content/css/hr.css",
+            "fileName": "hr.html",
+            "title": "Демо HTML: <hr>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
+        "ul": {
+            "exampleCode": "./live-examples/html-examples/text-content/ul.html",
+            "cssExampleSrc": "./live-examples/html-examples/text-content/css/ul.css",
+            "fileName": "ul.html",
+            "title": "Демо HTML: <ul>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}

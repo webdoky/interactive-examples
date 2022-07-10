@@ -1,0 +1,22 @@
+{
+    "pages": {
+        "objectAssign": {
+            "exampleCode": "./live-examples/js-examples/object/object-assign.js",
+            "fileName": "object-assign.html",
+            "title": "Демо JavaScript: Object.assign()",
+            "type": "js"
+        },
+        "objectEntries": {
+            "exampleCode": "./live-examples/js-examples/object/object-entries.js",
+            "fileName": "object-entries.html",
+            "title": "Демо JavaScript: Object.entries()",
+            "type": "js"
+        },
+        "objectKeys": {
+            "exampleCode": "./live-examples/js-examples/object/object-keys.js",
+            "fileName": "object-keys.html",
+            "title": "Демо JavaScript: Object.keys()",
+            "type": "js"
+        }
+    }
+}

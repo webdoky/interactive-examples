@@ -1,0 +1,28 @@
+{
+    "pages": {
+        "expressionsConditionalOperators": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-conditionaloperators.js",
+            "fileName": "expressions-conditionaloperators.html",
+            "title": "Демо JavaScript: Expressions - Conditional operator",
+            "type": "js"
+        },
+        "expressionsDestructuringAssignment": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-destructuringassignment.js",
+            "fileName": "expressions-destructuringassignment.html",
+            "title": "Демо JavaScript: Expressions - Destructuring assignment",
+            "type": "js"
+        },
+        "expressionsSpreadSyntax": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-spreadsyntax.js",
+            "fileName": "expressions-spreadsyntax.html",
+            "title": "Демо JavaScript: Expressions - Spread syntax",
+            "type": "js"
+        },
+        "expressionsTypeof": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-typeof.js",
+            "fileName": "expressions-typeof.html",
+            "title": "Демо JavaScript: Expressions - typeof",
+            "type": "js"
+        }
+    }
+}

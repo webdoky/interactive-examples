@@ -7,6 +7,14 @@
             "title": "Демо HTML: <input type=\"text\">",
             "type": "tabbed",
             "height": "tabbed-shorter"
+        },
+        "date": {
+            "exampleCode": "./live-examples/html-examples/input/date.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-date.html",
+            "title": "Демо HTML: <input type=\"date\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
         }
     }
 }

@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "map": {
+            "exampleCode":"./live-examples/js-examples/map/map.js",
+            "fileName": "map.html",
+            "title":"Демо JavaScript: Map",
+            "type":"js"
+        }
+    }
+}

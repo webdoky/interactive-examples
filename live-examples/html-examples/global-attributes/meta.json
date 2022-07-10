@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "class": {
+            "exampleCode": "./live-examples/html-examples/global-attributes/attribute-class.html",
+            "cssExampleSrc": "./live-examples/html-examples/global-attributes/css/attribute-class.css",
+            "fileName": "attribute-class.html",
+            "title": "Демо HTML: class",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}

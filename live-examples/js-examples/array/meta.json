@@ -1,0 +1,76 @@
+{
+    "pages": {
+        "arrayFilter": {
+            "exampleCode": "./live-examples/js-examples/array/array-filter.js",
+            "fileName": "array-filter.html",
+            "title": "Демо JavaScript: Array.filter()",
+            "type": "js"
+        },
+        "arrayFind": {
+            "exampleCode": "./live-examples/js-examples/array/array-find.js",
+            "fileName": "array-find.html",
+            "title": "Демо JavaScript: Array.find()",
+            "type": "js"
+        },
+        "arrayFindIndex": {
+            "exampleCode": "./live-examples/js-examples/array/array-findindex.js",
+            "fileName": "array-findindex.html",
+            "title": "Демо JavaScript: Array.findIndex()",
+            "type": "js"
+        },
+        "arrayForEach": {
+            "exampleCode": "./live-examples/js-examples/array/array-foreach.js",
+            "fileName": "array-foreach.html",
+            "title": "Демо JavaScript: Array.forEach()",
+            "type": "js"
+        },
+        "arrayIncludes": {
+            "exampleCode": "./live-examples/js-examples/array/array-includes.js",
+            "fileName": "array-includes.html",
+            "title": "Демо JavaScript: Array.includes()",
+            "type": "js"
+        },
+        "arrayIndexof": {
+            "exampleCode": "./live-examples/js-examples/array/array-indexof.js",
+            "fileName": "array-indexof.html",
+            "title": "Демо JavaScript: Array.indexOf()",
+            "type": "js"
+        },
+        "arrayMap": {
+            "exampleCode": "./live-examples/js-examples/array/array-map.js",
+            "fileName": "array-map.html",
+            "title": "Демо JavaScript: Array.map()",
+            "type": "js"
+        },
+        "arrayReduce": {
+            "exampleCode": "./live-examples/js-examples/array/array-reduce.js",
+            "fileName": "array-reduce.html",
+            "title": "Демо JavaScript: Array.reduce()",
+            "type": "js"
+        },
+        "arraySlice": {
+            "exampleCode": "./live-examples/js-examples/array/array-slice.js",
+            "fileName": "array-slice.html",
+            "title": "Демо JavaScript: Array.slice()",
+            "type": "js"
+        },
+        "arraySome": {
+            "exampleCode": "./live-examples/js-examples/array/array-some.js",
+            "fileName": "array-some.html",
+            "title": "Демо JavaScript: Array.some()",
+            "type": "js"
+        },
+        "arraySort": {
+            "exampleCode": "./live-examples/js-examples/array/array-sort.js",
+            "fileName": "array-sort.html",
+            "title": "Демо JavaScript: Array.sort()",
+            "type": "js"
+        },
+        "arraySplice": {
+            "exampleCode": "./live-examples/js-examples/array/array-splice.js",
+            "fileName": "array-splice.html",
+            "title": "Демо JavaScript: Array.splice()",
+            "type": "js"
+        }
+    }
+}
