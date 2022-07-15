@@ -9,7 +9,11 @@
 [live-examples] - весь вміст інтерактивних прикладів зберігається тут.
 
 [live-examples/css-examples] - CSS-приклади.
+
 [live-examples/js-examples] - JS-приклади.
+
 [live-examples/html-examples] - HTML-приклади.
+
 [live-examples/fonts] - шрифти, що використовуються в прикладах.
+
 [live-examples/media] - зображення, на які посилаються приклади.
