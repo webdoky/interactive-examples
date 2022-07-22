@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "video": {
+            "exampleCode": "./live-examples/html-examples/image-and-multimedia/video.html",
+            "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/video.css",
+            "fileName": "video.html",
+            "title": "Демо HTML: <video>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}
