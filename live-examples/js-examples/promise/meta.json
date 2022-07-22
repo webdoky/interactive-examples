@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "promiseAll": {
+            "exampleCode": "./live-examples/js-examples/promise/promise-all.js",
+            "fileName": "promise-all.html",
+            "title": "JavaScript Demo: Promise.all()",
+            "type": "js"
+        }
+    }
+}

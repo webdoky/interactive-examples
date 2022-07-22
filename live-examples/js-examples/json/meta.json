@@ -1,5 +1,11 @@
 {
     "pages": {
+        "jsonParse": {
+            "exampleCode": "./live-examples/js-examples/json/json-parse.js",
+            "fileName": "json-parse.html",
+            "title": "Демо JavaScript: JSON.parse()",
+            "type": "js"
+        },
         "jsonStringify": {
             "exampleCode": "./live-examples/js-examples/json/json-stringify.js",
             "fileName": "json-stringify.html",

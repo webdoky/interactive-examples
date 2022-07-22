@@ -3,19 +3,25 @@
         "statementAsync": {
             "exampleCode": "./live-examples/js-examples/statement/statement-async.js",
             "fileName": "statement-async.html",
-            "title": "Демо JavaScript: Statement - Async",
+            "title": "Демо JavaScript: Інструкція - Async",
             "type": "js"
         },
         "statementForIn": {
             "exampleCode": "./live-examples/js-examples/statement/statement-forin.js",
             "fileName": "statement-forin.html",
-            "title": "Демо JavaScript: Statement - For...In",
+            "title": "Демо JavaScript: Інструкція - For...In",
             "type": "js"
         },
         "statementForOf": {
             "exampleCode": "./live-examples/js-examples/statement/statement-forof.js",
             "fileName": "statement-forof.html",
-            "title": "Демо JavaScript: Statement - For...Of",
+            "title": "Демо JavaScript: Інструкція - For...Of",
+            "type": "js"
+        },
+        "statementSwitch": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-switch.js",
+            "fileName": "statement-switch.html",
+            "title": "Демо JavaScript: Інструкція - Switch",
             "type": "js"
         }
     }

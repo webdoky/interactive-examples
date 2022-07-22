@@ -1,5 +1,29 @@
 {
     "pages": {
+        "checkbox": {
+            "exampleCode": "./live-examples/html-examples/input/checkbox.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
+            "fileName": "input-checkbox.html",
+            "title": "Демо HTML: <input type=\"checkbox\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
+        "file": {
+            "exampleCode": "./live-examples/html-examples/input/file.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-file.html",
+            "title": "Демо HTML: <input type=\"file\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
+        "radio": {
+            "exampleCode": "./live-examples/html-examples/input/radio.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
+            "fileName": "input-radio.html",
+            "title": "Демо HTML: <input type=\"radio\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "text": {
             "exampleCode": "./live-examples/html-examples/input/text.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",

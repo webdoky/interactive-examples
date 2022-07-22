@@ -1,5 +1,11 @@
 {
     "pages": {
+        "arrayConcat": {
+            "exampleCode": "./live-examples/js-examples/array/array-concat.js",
+            "fileName": "array-concat.html",
+            "title": "Демо JavaScript: Array.concat()",
+            "type": "js"
+        },
         "arrayFilter": {
             "exampleCode": "./live-examples/js-examples/array/array-filter.js",
             "fileName": "array-filter.html",
@@ -46,6 +52,12 @@
             "exampleCode": "./live-examples/js-examples/array/array-map.js",
             "fileName": "array-map.html",
             "title": "Демо JavaScript: Array.map()",
+            "type": "js"
+        },
+        "arrayPush": {
+            "exampleCode": "./live-examples/js-examples/array/array-push.js",
+            "fileName": "array-push.html",
+            "title": "Демо JavaScript: Array.push()",
             "type": "js"
         },
         "arrayReduce": {
