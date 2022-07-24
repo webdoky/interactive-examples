@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "a": {
+            "exampleCode": "./live-examples/html-examples/inline-text-semantics/a.html",
+            "cssExampleSrc": "./live-examples/html-examples/inline-text-semantics/css/a.css",
+            "fileName": "a.html",
+            "title": "Демо HTML: <a>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        }
+    }
+}
