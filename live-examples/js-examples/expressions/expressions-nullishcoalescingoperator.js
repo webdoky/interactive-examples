@@ -4,4 +4,4 @@ console.log(foo);
 
 const baz = 0 ?? 42;
 console.log(baz);
-// усталений рядок: 0
+// очікуваний вивід: 0
