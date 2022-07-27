@@ -3,25 +3,31 @@
         "expressionsConditionalOperators": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-conditionaloperators.js",
             "fileName": "expressions-conditionaloperators.html",
-            "title": "Демо JavaScript: Expressions - Conditional operator",
+            "title": "Демо JavaScript: Вирази - Умовний оператор",
             "type": "js"
         },
         "expressionsDestructuringAssignment": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-destructuringassignment.js",
             "fileName": "expressions-destructuringassignment.html",
-            "title": "Демо JavaScript: Expressions - Destructuring assignment",
+            "title": "Демо JavaScript: Вирази - Присвоєння з деструктуруванням",
+            "type": "js"
+        },
+        "expressionsOptionalChainingOperator": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-optionalchainingoperator.js",
+            "fileName": "expressions-optionalchainingoperator.html",
+            "title": "Демо JavaScript: Вирази - Оператор необов'язкового ланцюжка",
             "type": "js"
         },
         "expressionsSpreadSyntax": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-spreadsyntax.js",
             "fileName": "expressions-spreadsyntax.html",
-            "title": "Демо JavaScript: Expressions - Spread syntax",
+            "title": "Демо JavaScript: Вирази - Синтаксис розгортання",
             "type": "js"
         },
         "expressionsTypeof": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-typeof.js",
             "fileName": "expressions-typeof.html",
-            "title": "Демо JavaScript: Expressions - typeof",
+            "title": "Демо JavaScript: Вирази - typeof",
             "type": "js"
         }
     }
