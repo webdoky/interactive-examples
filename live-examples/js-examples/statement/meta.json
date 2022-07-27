@@ -23,6 +23,12 @@
             "fileName": "statement-switch.html",
             "title": "Демо JavaScript: Інструкція - Switch",
             "type": "js"
+        },
+        "statementTryCatch": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-trycatch.js",
+            "fileName": "statement-trycatch.html",
+            "title": "Демо JavaScript: Інструкція - Try...Catch",
+            "type": "js"
         }
     }
 }
