@@ -28,6 +28,13 @@
             "title": "Демо CSS: border",
             "type": "css"
         },
+        "borderRadius": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/border-radius.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/border-radius.html",
+            "fileName": "border-radius.html",
+            "title": "Демо CSS: border-radius",
+            "type": "css"
+        },
         "boxShadow": {
             "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/box-shadow.css",
             "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/box-shadow.html",
