@@ -6,6 +6,12 @@
             "title": "Демо JavaScript: Array.concat()",
             "type": "js"
         },
+        "arrayEvery": {
+            "exampleCode": "./live-examples/js-examples/array/array-every.js",
+            "fileName": "array-every.html",
+            "title": "Демо JavaScript: Array.every()",
+            "type": "js"
+        },
         "arrayFilter": {
             "exampleCode": "./live-examples/js-examples/array/array-filter.js",
             "fileName": "array-filter.html",
