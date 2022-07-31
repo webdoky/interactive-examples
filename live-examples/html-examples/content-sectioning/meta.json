@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "h1-h6": {
+            "exampleCode": "./live-examples/html-examples/content-sectioning/h1-h6.html",
+            "cssExampleSrc": "./live-examples/html-examples/content-sectioning/css/h1-h6.css",
+            "fileName": "h1-h6.html",
+            "title": "Демо HTML: <h1-h6>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}
