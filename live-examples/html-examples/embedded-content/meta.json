@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "iframe": {
+            "exampleCode": "./live-examples/html-examples/embedded-content/iframe.html",
+            "cssExampleSrc": "./live-examples/html-examples/embedded-content/css/iframe.css",
+            "fileName": "iframe.html",
+            "title": "Демо HTML: <iframe>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}
