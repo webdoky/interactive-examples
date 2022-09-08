@@ -5,6 +5,12 @@
             "fileName": "date-now.html",
             "title": "Демо JavaScript: Date.now()",
             "type": "js"
+        },
+        "dateParse": {
+            "exampleCode": "./live-examples/js-examples/date/date-parse.js",
+            "fileName": "date-parse.html",
+            "title": "Демо JavaScript: Date.parse()",
+            "type": "js"
         }
     }
 }
