@@ -36,6 +36,12 @@
             "title": "Демо JavaScript: Array.forEach()",
             "type": "js"
         },
+        "arrayFrom": {
+            "exampleCode": "./live-examples/js-examples/array/array-from.js",
+            "fileName": "array-from.html",
+            "title": "Демо JavaScript: Array.from()",
+            "type": "js"
+        },
         "arrayIncludes": {
             "exampleCode": "./live-examples/js-examples/array/array-includes.js",
             "fileName": "array-includes.html",
