@@ -78,6 +78,12 @@
             "title": "Демо JavaScript: Array.reduce()",
             "type": "js"
         },
+        "arrayShift": {
+            "exampleCode": "./live-examples/js-examples/array/array-shift.js",
+            "fileName": "array-shift.html",
+            "title": "Демо JavaScript: Array.shift()",
+            "type": "js"
+        },
         "arraySlice": {
             "exampleCode": "./live-examples/js-examples/array/array-slice.js",
             "fileName": "array-slice.html",
