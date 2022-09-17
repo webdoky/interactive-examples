@@ -1,0 +1,11 @@
+{
+    "pages": {
+        "gridTemplateColumns": {
+            "cssExampleSrc": "./live-examples/css-examples/grid/grid-template-columns.css",
+            "exampleCode": "./live-examples/css-examples/grid/grid-template-columns.html",
+            "fileName": "grid-template-columns.html",
+            "title": "Демо CSS: grid-template-columns",
+            "type": "css"
+        }
+    }
+}
