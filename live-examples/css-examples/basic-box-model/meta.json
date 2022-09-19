@@ -7,6 +7,13 @@
             "title": "Демо CSS: height",
             "type": "css"
         },
+        "margin": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-box-model/margin.css",
+            "exampleCode": "./live-examples/css-examples/basic-box-model/margin.html",
+            "fileName": "margin.html",
+            "title": "Демо CSS: margin",
+            "type": "css"
+        },
         "padding": {
             "cssExampleSrc": "./live-examples/css-examples/basic-box-model/padding.css",
             "exampleCode": "./live-examples/css-examples/basic-box-model/padding.html",
