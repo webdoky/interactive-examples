@@ -21,6 +21,13 @@
             "title": "Демо CSS: background-image",
             "type": "css"
         },
+        "backgroundSize": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/background-size.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/background-size.html",
+            "fileName": "background-size.html",
+            "title": "Демо CSS: background-size",
+            "type": "css"
+        },
         "border": {
             "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/border.css",
             "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/border.html",
