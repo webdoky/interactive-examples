@@ -1,0 +1,11 @@
+{
+    "pages": {
+        "objectFit": {
+            "cssExampleSrc": "./live-examples/css-examples/images/object-fit.css",
+            "exampleCode": "./live-examples/css-examples/images/object-fit.html",
+            "fileName": "object-fit.html",
+            "title": "Демо CSS: object-fit",
+            "type": "css"
+        }
+    }
+}
