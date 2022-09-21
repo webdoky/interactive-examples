@@ -13,6 +13,13 @@
             "fileName": "cursor.html",
             "title": "Демо CSS: cursor",
             "type": "css"
+        },
+        "textOverflow": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/text-overflow.css",
+            "exampleCode": "./live-examples/css-examples/basic-user-interface/text-overflow.html",
+            "fileName": "text-overflow.html",
+            "title": "Демо CSS: text-overflow",
+            "type": "css"
         }
     }
 }
