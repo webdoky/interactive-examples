@@ -11,7 +11,8 @@
             "cssExampleSrc": "./live-examples/css-examples/basic-box-model/margin.css",
             "exampleCode": "./live-examples/css-examples/basic-box-model/margin.html",
             "fileName": "margin.html",
-            "title": "Демо CSS: margin"
+            "title": "Демо CSS: margin",
+            "type": "css"
         },
         "overflow": {
             "cssExampleSrc": "./live-examples/css-examples/basic-box-model/overflow.css",
