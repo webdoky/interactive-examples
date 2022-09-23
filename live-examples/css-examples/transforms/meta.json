@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "transform": {
+            "exampleCode": "./live-examples/css-examples/transforms/transform.html",
+            "fileName": "transform.html",
+            "title": "Демо CSS: transform",
+            "type": "css"
+        }
+    }
+}

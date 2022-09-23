@@ -1,0 +1,13 @@
+{
+    "pages": {
+        "nthChild": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/nth-child.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/nth-child.html",
+            "fileName": "pseudo-class-nth-child.html",
+            "title": "Демо CSS: :nth-child",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        }
+    }
+}

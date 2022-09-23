@@ -36,6 +36,12 @@
             "title": "Демо JavaScript: Array.forEach()",
             "type": "js"
         },
+        "arrayFrom": {
+            "exampleCode": "./live-examples/js-examples/array/array-from.js",
+            "fileName": "array-from.html",
+            "title": "Демо JavaScript: Array.from()",
+            "type": "js"
+        },
         "arrayIncludes": {
             "exampleCode": "./live-examples/js-examples/array/array-includes.js",
             "fileName": "array-includes.html",
@@ -70,6 +76,12 @@
             "exampleCode": "./live-examples/js-examples/array/array-reduce.js",
             "fileName": "array-reduce.html",
             "title": "Демо JavaScript: Array.reduce()",
+            "type": "js"
+        },
+        "arrayShift": {
+            "exampleCode": "./live-examples/js-examples/array/array-shift.js",
+            "fileName": "array-shift.html",
+            "title": "Демо JavaScript: Array.shift()",
             "type": "js"
         },
         "arraySlice": {
