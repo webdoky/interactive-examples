@@ -15,6 +15,14 @@
             "title": "Демо HTML: <select>",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "textarea": {
+            "exampleCode": "./live-examples/html-examples/forms/textarea.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/textarea.css",
+            "fileName": "textarea.html",
+            "title": "Демо HTML: <textarea>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
         }
     }
 }
