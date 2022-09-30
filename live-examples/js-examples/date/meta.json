@@ -11,6 +11,12 @@
             "fileName": "date-parse.html",
             "title": "Демо JavaScript: Date.parse()",
             "type": "js"
+        },
+        "dateToISOString": {
+            "exampleCode": "./live-examples/js-examples/date/date-toisostring.js",
+            "fileName": "date-toisostring.html",
+            "title": "Демо JavaScript: Date.toISOString()",
+            "type": "js"
         }
     }
 }
