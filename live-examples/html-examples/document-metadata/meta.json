@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "link": {
+            "exampleCode": "./live-examples/html-examples/document-metadata/link.html",
+            "cssExampleSrc": "./live-examples/html-examples/document-metadata/css/link.css",
+            "fileName": "link.html",
+            "title": "Демо HTML: <link>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        }
+    }
+}
