@@ -15,6 +15,14 @@
             "title": "Демо HTML: <br>",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "span": {
+            "exampleCode": "./live-examples/html-examples/inline-text-semantics/span.html",
+            "cssExampleSrc": "./live-examples/html-examples/inline-text-semantics/css/span.css",
+            "fileName": "span.html",
+            "title": "Демо HTML: <span>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
         }
     }
 }
