@@ -66,6 +66,12 @@
             "title": "Демо JavaScript: Array.map()",
             "type": "js"
         },
+        "arrayPop": {
+            "exampleCode": "./live-examples/js-examples/array/array-pop.js",
+            "fileName": "array-pop.html",
+            "title": "Демо JavaScript: Array.pop()",
+            "type": "js"
+        },
         "arrayPush": {
             "exampleCode": "./live-examples/js-examples/array/array-push.js",
             "fileName": "array-push.html",
