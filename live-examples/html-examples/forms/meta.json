@@ -1,5 +1,13 @@
 {
     "pages": {
+        "form": {
+            "exampleCode": "./live-examples/html-examples/forms/form.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/form.css",
+            "fileName": "form.html",
+            "title": "Демо HTML: <form>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "label": {
             "exampleCode": "./live-examples/html-examples/forms/label.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/label.css",
