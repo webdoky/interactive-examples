@@ -8,6 +8,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "br": {
+            "exampleCode": "./live-examples/html-examples/inline-text-semantics/br.html",
+            "cssExampleSrc": "./live-examples/html-examples/inline-text-semantics/css/br.css",
+            "fileName": "br.html",
+            "title": "Демо HTML: <br>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "span": {
             "exampleCode": "./live-examples/html-examples/inline-text-semantics/span.html",
             "cssExampleSrc": "./live-examples/html-examples/inline-text-semantics/css/span.css",

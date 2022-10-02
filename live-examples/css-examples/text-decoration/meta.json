@@ -1,0 +1,11 @@
+{
+    "pages": {
+        "textDecoration": {
+            "cssExampleSrc": "./live-examples/css-examples/text-decoration/text-decoration.css",
+            "exampleCode": "./live-examples/css-examples/text-decoration/text-decoration.html",
+            "fileName": "text-decoration.html",
+            "title": "Демо CSS: text-decoration",
+            "type": "css"
+        }
+    }
+}
