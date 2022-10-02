@@ -8,11 +8,27 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "label": {
+            "exampleCode": "./live-examples/html-examples/forms/label.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/label.css",
+            "fileName": "label.html",
+            "title": "Демо HTML: <label>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "select": {
             "exampleCode": "./live-examples/html-examples/forms/select.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/select.css",
             "fileName": "select.html",
             "title": "Демо HTML: <select>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
+        "textarea": {
+            "exampleCode": "./live-examples/html-examples/forms/textarea.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/textarea.css",
+            "fileName": "textarea.html",
+            "title": "Демо HTML: <textarea>",
             "type": "tabbed",
             "height": "tabbed-standard"
         }

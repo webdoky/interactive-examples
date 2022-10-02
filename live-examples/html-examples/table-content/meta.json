@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "table": {
+            "exampleCode": "./live-examples/html-examples/table-content/table.html",
+            "cssExampleSrc": "./live-examples/html-examples/table-content/css/table.css",
+            "fileName": "table.html",
+            "title": "Демо HTML: <table>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        }
+    }
+}
