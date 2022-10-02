@@ -1,5 +1,11 @@
 {
     "pages": {
+        "dateConstructor": {
+            "exampleCode": "./live-examples/js-examples/date/date-constructor.js",
+            "fileName": "date-constructor.html",
+            "title": "Демо JavaScript: Конструктор Date",
+            "type": "js"
+        },
         "dateNow": {
             "exampleCode": "./live-examples/js-examples/date/date-now.js",
             "fileName": "date-now.html",
