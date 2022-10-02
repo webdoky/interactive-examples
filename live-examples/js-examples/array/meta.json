@@ -30,6 +30,12 @@
             "title": "Демо JavaScript: Array.findIndex()",
             "type": "js"
         },
+        "arrayFlat": {
+            "exampleCode": "./live-examples/js-examples/array/array-flat.js",
+            "fileName": "array-flat.html",
+            "title": "Демо JavaScript: Array.flat()",
+            "type": "js"
+        },
         "arrayForEach": {
             "exampleCode": "./live-examples/js-examples/array/array-foreach.js",
             "fileName": "array-foreach.html",
