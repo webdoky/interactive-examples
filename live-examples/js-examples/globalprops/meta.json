@@ -1,5 +1,11 @@
 {
     "pages": {
+        "globalpropsEncodeURIComponent": {
+            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-encodeuricomponent.js",
+            "fileName": "globalprops-encodeuricomponent.html",
+            "title": "Демо JavaScript Demo: Стандартні вбудовані об'єкти - encodeURIComponent()",
+            "type": "js"
+        },
         "globalpropsParseInt": {
             "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
             "fileName": "globalprops-parseint.html",
