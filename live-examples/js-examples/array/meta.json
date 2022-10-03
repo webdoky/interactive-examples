@@ -66,6 +66,12 @@
             "title": "Демо JavaScript: Array.join()",
             "type": "js"
         },
+        "arrayLength": {
+            "exampleCode": "./live-examples/js-examples/array/array-length.js",
+            "fileName": "array-length.html",
+            "title": "Демо JavaScript: Array.length",
+            "type": "js"
+        },
         "arrayMap": {
             "exampleCode": "./live-examples/js-examples/array/array-map.js",
             "fileName": "array-map.html",
