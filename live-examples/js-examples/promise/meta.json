@@ -5,6 +5,12 @@
             "fileName": "promise-all.html",
             "title": "JavaScript Demo: Promise.all()",
             "type": "js"
+        },
+        "promiseThen": {
+            "exampleCode": "./live-examples/js-examples/promise/promise-then.js",
+            "fileName": "promise-then.html",
+            "title": "Демо JavaScript: Promise.then()",
+            "type": "js"
         }
     }
 }
