@@ -17,6 +17,12 @@
             "fileName": "object-keys.html",
             "title": "Демо JavaScript: Object.keys()",
             "type": "js"
+        },
+        "objectPrototypeHasOwnProperty": {
+            "exampleCode": "./live-examples/js-examples/object/object-prototype-hasownproperty.js",
+            "fileName": "object-prototype-hasownproperty.html",
+            "title": "Демо JavaScript: Object.prototype.hasOwnProperty()",
+            "type": "js"
         }
     }
 }
