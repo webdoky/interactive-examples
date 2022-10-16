@@ -6,6 +6,12 @@
             "title": "Демо JavaScript: Вирази - Умовний оператор",
             "type": "js"
         },
+        "expressionsDeleteOperator": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-deleteoperator.js",
+            "fileName": "expressions-deleteoperator.html",
+            "title": "Демо JavaScript: Вирази - Оператор delete",
+            "type": "js"
+        },
         "expressionsDestructuringAssignment": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-destructuringassignment.js",
             "fileName": "expressions-destructuringassignment.html",
