@@ -1,5 +1,12 @@
 {
     "pages": {
+        "linearGradient": {
+            "cssExampleSrc": "./live-examples/css-examples/images/gradient.css",
+            "exampleCode": "./live-examples/css-examples/images/function-linear-gradient.html",
+            "fileName": "function-linear-gradient.html",
+            "title": "Демо CSS: linear-gradient()",
+            "type": "css"
+        },
         "objectFit": {
             "cssExampleSrc": "./live-examples/css-examples/images/object-fit.css",
             "exampleCode": "./live-examples/css-examples/images/object-fit.html",
