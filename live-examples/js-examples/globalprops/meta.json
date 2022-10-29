@@ -3,13 +3,19 @@
         "globalpropsEncodeURIComponent": {
             "exampleCode": "./live-examples/js-examples/globalprops/globalprops-encodeuricomponent.js",
             "fileName": "globalprops-encodeuricomponent.html",
-            "title": "Демо JavaScript Demo: Стандартні вбудовані об'єкти - encodeURIComponent()",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - encodeURIComponent()",
             "type": "js"
         },
         "globalpropsParseInt": {
             "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
             "fileName": "globalprops-parseint.html",
             "title": "Демо JavaScript: Стандартні вбудовані об'єкти — parseInt()",
+            "type": "js"
+        },
+        "globalpropsUndefined": {
+            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-undefined.js",
+            "fileName": "globalprops-undefined.html",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - undefined",
             "type": "js"
         }
     }
