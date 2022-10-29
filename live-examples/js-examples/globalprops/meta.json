@@ -3,7 +3,13 @@
         "globalpropsEncodeURIComponent": {
             "exampleCode": "./live-examples/js-examples/globalprops/globalprops-encodeuricomponent.js",
             "fileName": "globalprops-encodeuricomponent.html",
-            "title": "Демо JavaScript Demo: Стандартні вбудовані об'єкти - encodeURIComponent()",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - encodeURIComponent()",
+            "type": "js"
+        },
+        "globalpropsNaN": {
+            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-nan.js",
+            "fileName": "globalprops-nan.html",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - NaN",
             "type": "js"
         },
         "globalpropsParseInt": {
