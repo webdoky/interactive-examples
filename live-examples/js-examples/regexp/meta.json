@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "regexpPrototypeExec": {
+            "exampleCode": "./live-examples/js-examples/regexp/regexp-prototype-exec.js",
+            "fileName": "regexp-prototype-exec.html",
+            "title": "Демо JavaScript: RegExp.prototype.exec()",
+            "type": "js"
+        }
+    }
+}

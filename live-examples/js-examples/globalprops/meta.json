@@ -6,6 +6,12 @@
             "title": "Демо JavaScript: Стандартні вбудовані об'єкти - encodeURIComponent()",
             "type": "js"
         },
+        "globalpropsNaN": {
+            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-nan.js",
+            "fileName": "globalprops-nan.html",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - NaN",
+            "type": "js"
+        },
         "globalpropsParseInt": {
             "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
             "fileName": "globalprops-parseint.html",

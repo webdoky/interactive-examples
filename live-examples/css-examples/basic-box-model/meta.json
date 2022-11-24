@@ -1,5 +1,12 @@
 {
     "pages": {
+        "display": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-box-model/display.css",
+            "exampleCode": "./live-examples/css-examples/basic-box-model/display.html",
+            "fileName": "display.html",
+            "title": "Демо CSS: display",
+            "type": "css"
+        },
         "height": {
             "cssExampleSrc": "./live-examples/css-examples/basic-box-model/height.css",
             "exampleCode": "./live-examples/css-examples/basic-box-model/height.html",
