@@ -1,5 +1,11 @@
 {
     "pages": {
+        "rotate": {
+            "exampleCode": "./live-examples/css-examples/transforms/function-rotate.html",
+            "fileName": "function-rotate.html",
+            "title": "Демо CSS: rotate()",
+            "type": "css"
+        },
         "transform": {
             "exampleCode": "./live-examples/css-examples/transforms/transform.html",
             "fileName": "transform.html",
