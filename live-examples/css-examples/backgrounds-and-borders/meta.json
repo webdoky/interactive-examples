@@ -21,6 +21,13 @@
             "title": "Демо CSS: background-image",
             "type": "css"
         },
+        "backgroundPosition": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/background-position.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/background-position.html",
+            "fileName": "background-position.html",
+            "title": "Демо CSS: background-position",
+            "type": "css"
+        },
         "backgroundSize": {
             "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/background-size.css",
             "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/background-size.html",
