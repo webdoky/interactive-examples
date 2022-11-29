@@ -6,6 +6,13 @@
             "fileName": "type-angle.html",
             "title": "Демо CSS: &lt;angle&gt;",
             "type": "css"
+        },
+        "calc": {
+            "cssExampleSrc": "./live-examples/css-examples/values-and-units/function-calc.css",
+            "exampleCode": "./live-examples/css-examples/values-and-units/function-calc.html",
+            "fileName": "function-calc.html",
+            "title": "Демо CSS: calc()",
+            "type": "css"
         }
     }
 }
