@@ -29,6 +29,12 @@
             "fileName": "date-tolocaledatestring.html",
             "title": "Демо JavaScript: Date.toLocaleDateString()",
             "type": "js"
+        },
+        "dateToLocaleString": {
+            "exampleCode": "./live-examples/js-examples/date/date-tolocalestring.js",
+            "fileName": "date-tolocalestring.html",
+            "title": "Демо JavaScript: Date.toLocaleString()",
+            "type": "js"
         }
     }
 }
