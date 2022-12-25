@@ -96,6 +96,12 @@
             "title": "Демо JavaScript: Array.reduce()",
             "type": "js"
         },
+        "arrayReverse": {
+            "exampleCode": "./live-examples/js-examples/array/array-reverse.js",
+            "fileName": "array-reverse.html",
+            "title": "Демо JavaScript: Array.reverse()",
+            "type": "js"
+        },
         "arrayShift": {
             "exampleCode": "./live-examples/js-examples/array/array-shift.js",
             "fileName": "array-shift.html",
