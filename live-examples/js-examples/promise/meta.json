@@ -3,7 +3,13 @@
         "promiseAll": {
             "exampleCode": "./live-examples/js-examples/promise/promise-all.js",
             "fileName": "promise-all.html",
-            "title": "JavaScript Demo: Promise.all()",
+            "title": "Демо JavaScript: Promise.all()",
+            "type": "js"
+        },
+        "promiseResolve": {
+            "exampleCode": "./live-examples/js-examples/promise/promise-resolve.js",
+            "fileName": "promise-resolve.html",
+            "title": "Демо JavaScript: Promise.resolve()",
             "type": "js"
         },
         "promiseThen": {
