@@ -7,6 +7,13 @@
             "title": "Демо CSS: text-align",
             "type": "css"
         },
+        "textTransform": {
+            "cssExampleSrc": "./live-examples/css-examples/text/text-transform.css",
+            "exampleCode": "./live-examples/css-examples/text/text-transform.html",
+            "fileName": "text-transform.html",
+            "title": "Демо CSS: text-transform",
+            "type": "css"
+        },
         "whiteSpace": {
             "cssExampleSrc": "./live-examples/css-examples/text/white-space.css",
             "exampleCode": "./live-examples/css-examples/text/white-space.html",
