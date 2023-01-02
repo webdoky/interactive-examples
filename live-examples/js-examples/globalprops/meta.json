@@ -12,10 +12,16 @@
             "title": "Демо JavaScript: Стандартні вбудовані об'єкти - NaN",
             "type": "js"
         },
+        "globalpropsNull": {
+            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-null.js",
+            "fileName": "globalprops-null.html",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - Null",
+            "type": "js"
+        },
         "globalpropsParseInt": {
             "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
             "fileName": "globalprops-parseint.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти — parseInt()",
+            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - parseInt()",
             "type": "js"
         },
         "globalpropsUndefined": {
