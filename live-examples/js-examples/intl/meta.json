@@ -1,0 +1,10 @@
+{
+    "pages": {
+        "intlNumberFormat": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-numberformat.js",
+            "fileName": "intl-numberformat.html",
+            "title": "Демо JavaScript: Intl.NumberFormat",
+            "type": "js"
+        }
+    }
+}
