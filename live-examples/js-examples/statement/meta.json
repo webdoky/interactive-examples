@@ -18,6 +18,12 @@
             "title": "Демо JavaScript: Інструкція - For...Of",
             "type": "js"
         },
+        "statementLet": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-let.js",
+            "fileName": "statement-let.html",
+            "title": "Демо JavaScript: Інструкція - Let",
+            "type": "js"
+        },
         "statementSwitch": {
             "exampleCode": "./live-examples/js-examples/statement/statement-switch.js",
             "fileName": "statement-switch.html",
