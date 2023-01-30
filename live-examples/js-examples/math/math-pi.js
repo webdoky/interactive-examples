@@ -3,7 +3,7 @@ function calculateCircumference(radius) {
 }
 
 console.log(Math.PI);
-// очікуваний вивід: 3.141592653589793
+// Очікуваний вивід: 3.141592653589793
 
 console.log(calculateCircumference(10));
-// очікуваний вивід: 62.83185307179586
+// Очікуваний вивід: 62.83185307179586

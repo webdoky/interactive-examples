@@ -3,10 +3,10 @@ function calcHypotenuse(a, b) {
 }
 
 console.log(calcHypotenuse(3, 4));
-// очікуваний вивід: 5
+// Очікуваний вивід: 5
 
 console.log(calcHypotenuse(5, 12));
-// очікуваний вивід: 13
+// Очікуваний вивід: 13
 
 console.log(calcHypotenuse(0, 0));
-// очікуваний вивід: 0
+// Очікуваний вивід: 0

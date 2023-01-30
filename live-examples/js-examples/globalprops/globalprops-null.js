@@ -7,4 +7,4 @@ function getVowels(str) {
 }
 
 console.log(getVowels('sky'));
-// очікуваний вивід: 0
+// Очікуваний вивід: 0

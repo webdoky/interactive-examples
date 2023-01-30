@@ -4,9 +4,9 @@ const Employee = {
 };
 
 console.log(Employee.firstname);
-// очікуваний вивід: "Андрій"
+// Очікуваний вивід: "Андрій"
 
 delete Employee.firstname;
 
 console.log(Employee.firstname);
-// очікуваний вивід: undefined
+// Очікуваний вивід: undefined

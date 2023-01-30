@@ -3,4 +3,4 @@ const regex = /[А-Я]/g;
 const found = paragraph.match(regex);
 
 console.log(found);
-// очікуваний вивід: Array ["Г", "П"]
+// Очікуваний вивід: Array ["Г", "П"]

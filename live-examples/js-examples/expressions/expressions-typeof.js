@@ -1,11 +1,11 @@
 console.log(typeof 42);
-// очікуваний вивід: "number"
+// Очікуваний вивід: "number"
 
 console.log(typeof 'ворвань');
-// очікуваний вивід: "string"
+// Очікуваний вивід: "string"
 
 console.log(typeof true);
-// очікуваний вивід: "boolean"
+// Очікуваний вивід: "boolean"
 
 console.log(typeof undeclaredVariable);
-// очікуваний вивід: "undefined"
+// Очікуваний вивід: "undefined"

@@ -5,7 +5,7 @@ function roughScale(x, base) {
 }
 
 console.log(roughScale(' 0xF', 16));
-// очікуваний вивід: 1500
+// Очікуваний вивід: 1500
 
 console.log(roughScale('321', 2));
-// очікуваний вивід: 0
+// Очікуваний вивід: 0

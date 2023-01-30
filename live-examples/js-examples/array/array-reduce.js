@@ -8,4 +8,4 @@ const sumWithInitial = array1.reduce(
 );
 
 console.log(sumWithInitial);
-// очікуваний вивід: 10
+// Очікуваний вивід: 10

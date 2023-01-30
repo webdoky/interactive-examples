@@ -3,10 +3,10 @@ function calcAngleDegrees(x, y) {
 }
 
 console.log(calcAngleDegrees(5, 5));
-//очікуваний вивід: 45
+//Очікуваний вивід: 45
 
 console.log(calcAngleDegrees(10, 10));
-//очікуваний вивід: 45
+//Очікуваний вивід: 45
 
 console.log(calcAngleDegrees(0, 10));
-//очікуваний вивід: 90
+//Очікуваний вивід: 90
