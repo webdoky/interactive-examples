@@ -7,7 +7,7 @@ const adventurer = {
 
 const dogName = adventurer.dog?.name;
 console.log(dogName);
-// очікуваний вивід: undefined
+// Очікуваний вивід: undefined
 
 console.log(adventurer.someNonExistentMethod?.());
-// очікуваний вивід: undefined
+// Очікуваний вивід: undefined

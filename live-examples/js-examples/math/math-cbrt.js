@@ -1,11 +1,11 @@
 console.log(Math.cbrt(-1));
-// очікуваний вивід: -1
+// Очікуваний вивід: -1
 
 console.log(Math.cbrt(1));
-// очікуваний вивід: 1
+// Очікуваний вивід: 1
 
 console.log(Math.cbrt(Infinity));
-// очікуваний вивід: Infinity
+// Очікуваний вивід: Infinity
 
 console.log(Math.cbrt(64));
-// очікуваний вивід: 4
+// Очікуваний вивід: 4

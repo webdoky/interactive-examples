@@ -3,10 +3,10 @@ function getRandomInt(max) {
 }
 
 console.log(getRandomInt(3));
-// очікуваний вивід: 0, 1 or 2
+// Очікуваний вивід: 0, 1 or 2
 
 console.log(getRandomInt(1));
-// очікуваний вивід: 0
+// Очікуваний вивід: 0
 
 console.log(Math.random());
-// очікуваний вивід: a number from 0 to <1
+// Очікуваний вивід: a number from 0 to <1

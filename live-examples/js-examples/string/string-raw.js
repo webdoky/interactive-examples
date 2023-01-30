@@ -3,4 +3,4 @@
 const filePath = String.raw`C:\Development\profile\aboutme.html`;
 
 console.log(`Файл було завантажено із: ${filePath}`);
-// очікуваний вивід: "Файл було завантажено із: C:\Development\profile\aboutme.html"
+// Очікуваний вивід: "Файл було завантажено із: C:\Development\profile\aboutme.html"

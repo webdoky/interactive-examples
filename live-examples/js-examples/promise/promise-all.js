@@ -7,4 +7,4 @@ const promise3 = new Promise((resolve, reject) => {
 Promise.all([promise1, promise2, promise3]).then((values) => {
   console.log(values);
 });
-// очікуваний вивід: Array [3, 42, "foo"]
+// Очікуваний вивід: Array [3, 42, "foo"]

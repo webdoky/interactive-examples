@@ -6,7 +6,7 @@ function sanitise(x) {
 }
 
 console.log(sanitise('1'));
-// очікуваний вивід: "1"
+// Очікуваний вивід: "1"
 
 console.log(sanitise('NotANumber'));
-// очікуваний вивід: NaN
+// Очікуваний вивід: NaN

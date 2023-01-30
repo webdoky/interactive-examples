@@ -5,4 +5,4 @@ const object1 = {
 };
 
 console.log(Object.keys(object1));
-// очікуваний вивід: Array ["a", "b", "c"]
+// Очікуваний вивід: Array ["a", "b", "c"]

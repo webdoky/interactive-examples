@@ -6,7 +6,7 @@ let theChar = iterator.next();
 while (!theChar.done && theChar.value !== ' ') {
   console.log(theChar.value);
   theChar = iterator.next();
-  // очікуваний вивід: "Г"
+  // Очікуваний вивід: "Г"
   //                   "е"
   //                   "й"
   //                   ","

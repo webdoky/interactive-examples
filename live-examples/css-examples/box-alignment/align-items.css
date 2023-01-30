@@ -1,7 +1,7 @@
 #example-element {
     background-color: #eee;
-    border: .75em solid;
-    padding: .75em;
+    border: 0.75em solid;
+    padding: 0.75em;
     display: grid;
     width: 200px;
     grid-template-columns: 1fr 1fr;
@@ -9,7 +9,7 @@
     grid-gap: 10px;
 }
 
-#example-element>div {
-    background-color: rgba(0, 0, 255, .2);
+#example-element > div {
+    background-color: rgba(0, 0, 255, 0.2);
     border: 3px solid blue;
 }

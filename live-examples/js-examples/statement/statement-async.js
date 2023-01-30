@@ -10,7 +10,7 @@ async function asyncCall() {
   console.log('виклик');
   const result = await resolveAfter2Seconds();
   console.log(result);
-  // очікуваний вивід: "сповнено"
+  // Очікуваний вивід: "сповнено"
 }
 
 asyncCall();
