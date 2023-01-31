@@ -5,6 +5,12 @@
             "fileName": "regexp-prototype-exec.html",
             "title": "Демо JavaScript: RegExp.prototype.exec()",
             "type": "js"
+        },
+        "regexpPrototypeTest": {
+            "exampleCode": "./live-examples/js-examples/regexp/regexp-prototype-test.js",
+            "fileName": "regexp-prototype-test.html",
+            "title": "Демо JavaScript: RegExp.prototype.test",
+            "type": "js"
         }
     }
 }
