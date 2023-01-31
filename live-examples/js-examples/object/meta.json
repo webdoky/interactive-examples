@@ -12,6 +12,12 @@
             "title": "Демо JavaScript: Object.entries()",
             "type": "js"
         },
+        "objectGetOwnPropertyNames": {
+            "exampleCode": "./live-examples/js-examples/object/object-getownpropertynames.js",
+            "fileName": "object-getownpropertynames.html",
+            "title": "Демо JavaScript: Object.getOwnPropertyNames()",
+            "type": "js"
+        },
         "objectKeys": {
             "exampleCode": "./live-examples/js-examples/object/object-keys.js",
             "fileName": "object-keys.html",
