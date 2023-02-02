@@ -60,6 +60,12 @@
             "title": "Демо JavaScript: Array.indexOf()",
             "type": "js"
         },
+        "arrayIsArray": {
+            "exampleCode": "./live-examples/js-examples/array/array-isarray.js",
+            "fileName": "array-isarray.html",
+            "title": "Демо JavaScript: Array.isArray()",
+            "type": "js"
+        },
         "arrayJoin": {
             "exampleCode": "./live-examples/js-examples/array/array-join.js",
             "fileName": "array-join.html",
