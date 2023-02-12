@@ -18,6 +18,12 @@
             "title": "Демо JavaScript: Вирази - Присвоєння з деструктуруванням",
             "type": "js"
         },
+        "expressionsNewOperator": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-newoperator.js",
+            "fileName": "expressions-newoperator.html",
+            "title": "Демо JavaScript: Вирази - Оператор",
+            "type": "js"
+        },
         "expressionsNullishCoalescingOperator": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-nullishcoalescingoperator.js",
             "fileName": "expressions-nullishcoalescingoperator.html",
