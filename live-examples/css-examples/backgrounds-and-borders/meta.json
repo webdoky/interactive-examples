@@ -56,6 +56,13 @@
             "title": "Демо CSS: border-style",
             "type": "css"
         },
+        "borderWidth": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/border-width.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/border-width.html",
+            "fileName": "border-width.html",
+            "title": "Демо CSS: border-width",
+            "type": "css"
+        },
         "boxShadow": {
             "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/box-shadow.css",
             "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/box-shadow.html",
