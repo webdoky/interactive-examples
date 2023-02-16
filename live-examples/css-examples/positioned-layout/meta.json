@@ -6,6 +6,13 @@
             "fileName": "position.html",
             "title": "Демо CSS: position",
             "type": "css"
+        },
+        "zIndex": {
+            "cssExampleSrc": "./live-examples/css-examples/positioned-layout/z-index.css",
+            "exampleCode": "./live-examples/css-examples/positioned-layout/z-index.html",
+            "fileName": "z-index.html",
+            "title": "Демо CSS: z-index",
+            "type": "css"
         }
     }
 }

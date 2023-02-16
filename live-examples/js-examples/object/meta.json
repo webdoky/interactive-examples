@@ -6,6 +6,18 @@
             "title": "Демо JavaScript: Object.assign()",
             "type": "js"
         },
+        "objectCreate": {
+            "exampleCode": "./live-examples/js-examples/object/object-create.js",
+            "fileName": "object-create.html",
+            "title": "Демо JavaScript: Object.create()",
+            "type": "js"
+        },
+        "objectDefineProperty": {
+            "exampleCode": "./live-examples/js-examples/object/object-defineproperty.js",
+            "fileName": "object-defineproperty.html",
+            "title": "Демо JavaScript: Object.defineProperty()",
+            "type": "js"
+        },
         "objectEntries": {
             "exampleCode": "./live-examples/js-examples/object/object-entries.js",
             "fileName": "object-entries.html",
@@ -18,6 +30,12 @@
             "title": "Демо JavaScript: Object.getOwnPropertyNames()",
             "type": "js"
         },
+        "objectIs": {
+            "exampleCode": "./live-examples/js-examples/object/object-is.js",
+            "fileName": "object-is.html",
+            "title": "Демо JavaScript: Object.is()",
+            "type": "js"
+        },
         "objectKeys": {
             "exampleCode": "./live-examples/js-examples/object/object-keys.js",
             "fileName": "object-keys.html",
@@ -28,6 +46,12 @@
             "exampleCode": "./live-examples/js-examples/object/object-prototype-hasownproperty.js",
             "fileName": "object-prototype-hasownproperty.html",
             "title": "Демо JavaScript: Object.prototype.hasOwnProperty()",
+            "type": "js"
+        },
+        "objectPrototypeToString": {
+            "exampleCode": "./live-examples/js-examples/object/object-prototype-tostring.js",
+            "fileName": "object-prototype-tostring.html",
+            "title": "Демо JavaScript: Object.prototype.toString()",
             "type": "js"
         }
     }
