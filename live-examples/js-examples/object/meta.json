@@ -53,6 +53,12 @@
             "fileName": "object-prototype-tostring.html",
             "title": "Демо JavaScript: Object.prototype.toString()",
             "type": "js"
+        },
+        "objectPrototypeValueOf": {
+            "exampleCode": "./live-examples/js-examples/object/object-prototype-valueof.js",
+            "fileName": "object-prototype-valueof.html",
+            "title": "Демо JavaScript: Object.prototype.valueOf()",
+            "type": "js"
         }
     }
 }
