@@ -18,6 +18,12 @@
             "title": "Демо JavaScript: Інструкція - For...Of",
             "type": "js"
         },
+        "statementIfElse": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-ifelse.js",
+            "fileName": "statement-ifelse.html",
+            "title": "Демо JavaScript: Інструкція - If...Else",
+            "type": "js"
+        },
         "statementLet": {
             "exampleCode": "./live-examples/js-examples/statement/statement-let.js",
             "fileName": "statement-let.html",
