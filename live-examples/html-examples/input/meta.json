@@ -1,5 +1,13 @@
 {
     "pages": {
+        "button": {
+            "exampleCode": "./live-examples/html-examples/input/button.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/button.css",
+            "fileName": "input-button.html",
+            "title": "Демо HTML: <input type=\"button\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "checkbox": {
             "exampleCode": "./live-examples/html-examples/input/checkbox.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
