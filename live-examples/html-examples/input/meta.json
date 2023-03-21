@@ -16,6 +16,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "color": {
+            "exampleCode": "./live-examples/html-examples/input/color.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
+            "fileName": "input-color.html",
+            "title": "Демо HTML: <input type=\"color\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "file": {
             "exampleCode": "./live-examples/html-examples/input/file.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
