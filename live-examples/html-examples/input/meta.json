@@ -8,6 +8,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "email": {
+            "exampleCode": "./live-examples/html-examples/input/email.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-email.html",
+            "title": "Демо HTML: <input type=\"email\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "file": {
             "exampleCode": "./live-examples/html-examples/input/file.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
