@@ -16,6 +16,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "month": {
+            "exampleCode": "./live-examples/html-examples/input/month.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-month.html",
+            "title": "Демо HTML: <input type=\"month\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "number": {
             "exampleCode": "./live-examples/html-examples/input/number.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
