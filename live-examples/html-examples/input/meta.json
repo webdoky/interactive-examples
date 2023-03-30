@@ -16,6 +16,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "image": {
+            "exampleCode": "./live-examples/html-examples/input/image.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/image.css",
+            "fileName": "input-image.html",
+            "title": "Демо HTML: <input type=\"image\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "number": {
             "exampleCode": "./live-examples/html-examples/input/number.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
