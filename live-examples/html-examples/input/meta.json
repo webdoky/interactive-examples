@@ -24,6 +24,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "password": {
+            "exampleCode": "./live-examples/html-examples/input/password.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/password.css",
+            "fileName": "input-password.html",
+            "title": "Демо HTML: <input type=\"password\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "radio": {
             "exampleCode": "./live-examples/html-examples/input/radio.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
