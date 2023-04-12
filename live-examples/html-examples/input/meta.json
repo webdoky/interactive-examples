@@ -40,6 +40,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "search": {
+            "exampleCode": "./live-examples/html-examples/input/search.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-search.html",
+            "title": "Демо HTML: <input type=\"search\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "text": {
             "exampleCode": "./live-examples/html-examples/input/text.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
