@@ -40,6 +40,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "tel": {
+            "exampleCode": "./live-examples/html-examples/input/tel.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-tel.html",
+            "title": "Демо HTML: <input type=\"tel\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "text": {
             "exampleCode": "./live-examples/html-examples/input/text.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
