@@ -1,4 +1,5 @@
 iframe {
     border: 1px solid black;
+    /* має пріоритет над шириною, заданою в атрибуті width HTML */
     width: 100%;
 }
