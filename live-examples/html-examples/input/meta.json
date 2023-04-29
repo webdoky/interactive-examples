@@ -1,10 +1,34 @@
 {
     "pages": {
+        "button": {
+            "exampleCode": "./live-examples/html-examples/input/button.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/button.css",
+            "fileName": "input-button.html",
+            "title": "Демо HTML: <input type=\"button\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "checkbox": {
             "exampleCode": "./live-examples/html-examples/input/checkbox.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
             "fileName": "input-checkbox.html",
             "title": "Демо HTML: <input type=\"checkbox\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
+        "datetimeLocal": {
+            "exampleCode": "./live-examples/html-examples/input/datetime-local.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-datetime-local.html",
+            "title": "Демо HTML: <input type=\"datetime-local\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
+        "color": {
+            "exampleCode": "./live-examples/html-examples/input/color.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
+            "fileName": "input-color.html",
+            "title": "Демо HTML: <input type=\"color\">",
             "type": "tabbed",
             "height": "tabbed-standard"
         },
@@ -24,6 +48,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "image": {
+            "exampleCode": "./live-examples/html-examples/input/image.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/image.css",
+            "fileName": "input-image.html",
+            "title": "Демо HTML: <input type=\"image\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "number": {
             "exampleCode": "./live-examples/html-examples/input/number.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
@@ -37,6 +69,14 @@
             "cssExampleSrc": "./live-examples/html-examples/input/css/multiple-input.css",
             "fileName": "input-radio.html",
             "title": "Демо HTML: <input type=\"radio\">",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
+        "reset": {
+            "exampleCode": "./live-examples/html-examples/input/reset.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/reset.css",
+            "fileName": "input-reset.html",
+            "title": "Демо HTML: <input type=\"reset\">",
             "type": "tabbed",
             "height": "tabbed-standard"
         },
