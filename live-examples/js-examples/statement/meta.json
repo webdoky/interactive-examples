@@ -6,6 +6,12 @@
             "title": "Демо JavaScript: Інструкція - Async",
             "type": "js"
         },
+        "statementConst": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-const.js",
+            "fileName": "statement-const.html",
+            "title": "Демо JavaScript: Інструкція - Const",
+            "type": "js"
+        },
         "statementForIn": {
             "exampleCode": "./live-examples/js-examples/statement/statement-forin.js",
             "fileName": "statement-forin.html",
@@ -16,6 +22,12 @@
             "exampleCode": "./live-examples/js-examples/statement/statement-forof.js",
             "fileName": "statement-forof.html",
             "title": "Демо JavaScript: Інструкція - For...Of",
+            "type": "js"
+        },
+        "statementIfElse": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-ifelse.js",
+            "fileName": "statement-ifelse.html",
+            "title": "Демо JavaScript: Інструкція - If...Else",
             "type": "js"
         },
         "statementLet": {
