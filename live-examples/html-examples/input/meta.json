@@ -40,6 +40,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "month": {
+            "exampleCode": "./live-examples/html-examples/input/month.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-month.html",
+            "title": "Демо HTML: <input type=\"month\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "image": {
             "exampleCode": "./live-examples/html-examples/input/image.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/image.css",
