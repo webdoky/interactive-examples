@@ -1,5 +1,14 @@
 {
     "pages": {
+        "not": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/not.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/not.html",
+            "fileName": "pseudo-class-not.html",
+            "title": "Демо CSS: :not",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        },
         "nthChild": {
             "cssExampleSrc": "./live-examples/css-examples/pseudo-class/nth-child.css",
             "exampleCode": "./live-examples/css-examples/pseudo-class/nth-child.html",
