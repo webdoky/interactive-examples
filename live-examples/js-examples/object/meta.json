@@ -59,6 +59,12 @@
             "fileName": "object-prototype-valueof.html",
             "title": "Демо JavaScript: Object.prototype.valueOf()",
             "type": "js"
+        },
+        "objectValues": {
+            "exampleCode": "./live-examples/js-examples/object/object-values.js",
+            "fileName": "object-values.html",
+            "title": "Демо JavaScript: Object.values()",
+            "type": "js"
         }
     }
 }
