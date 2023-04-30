@@ -1,5 +1,13 @@
 {
     "pages": {
+        "button": {
+            "exampleCode": "./live-examples/html-examples/forms/button.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/button.css",
+            "fileName": "button.html",
+            "title": "Демо HTML: <button>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "form": {
             "exampleCode": "./live-examples/html-examples/forms/form.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/form.css",
