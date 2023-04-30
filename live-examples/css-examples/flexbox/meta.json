@@ -13,6 +13,13 @@
             "fileName": "flex-wrap.html",
             "title": "Демо CSS: flex-wrap",
             "type": "css"
+        },
+        "flex": {
+            "cssExampleSrc": "./live-examples/css-examples/flexbox/flex.css",
+            "exampleCode": "./live-examples/css-examples/flexbox/flex.html",
+            "fileName": "flex.html",
+            "title": "Демо CSS: flex",
+            "type": "css"
         }
     }
 }
