@@ -24,6 +24,12 @@
             "title": "Демо JavaScript: Object.entries()",
             "type": "js"
         },
+        "objectFreeze": {
+            "exampleCode": "./live-examples/js-examples/object/object-freeze.js",
+            "fileName": "object-freeze.html",
+            "title": "Демо JavaScript: Object.freeze()",
+            "type": "js"
+        },
         "objectGetOwnPropertyNames": {
             "exampleCode": "./live-examples/js-examples/object/object-getownpropertynames.js",
             "fileName": "object-getownpropertynames.html",
