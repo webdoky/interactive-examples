@@ -30,6 +30,12 @@
             "title": "Демо JavaScript: Object.fromEntries()",
             "type": "js"
         },
+        "objectFreeze": {
+            "exampleCode": "./live-examples/js-examples/object/object-freeze.js",
+            "fileName": "object-freeze.html",
+            "title": "Демо JavaScript: Object.freeze()",
+            "type": "js"
+        },
         "objectGetOwnPropertyNames": {
             "exampleCode": "./live-examples/js-examples/object/object-getownpropertynames.js",
             "fileName": "object-getownpropertynames.html",
@@ -64,6 +70,12 @@
             "exampleCode": "./live-examples/js-examples/object/object-prototype-valueof.js",
             "fileName": "object-prototype-valueof.html",
             "title": "Демо JavaScript: Object.prototype.valueOf()",
+            "type": "js"
+        },
+        "objectValues": {
+            "exampleCode": "./live-examples/js-examples/object/object-values.js",
+            "fileName": "object-values.html",
+            "title": "Демо JavaScript: Object.values()",
             "type": "js"
         }
     }

@@ -30,6 +30,12 @@
             "title": "Демо JavaScript: Вирази - Оператор null-злиття",
             "type": "js"
         },
+        "expressionsObjectInitializer": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-objectinitializer.js",
+            "fileName": "expressions-objectinitializer.html",
+            "title": "Демо JavaScript: Вирази - Об'єктний ініціалізатор",
+            "type": "js"
+        },
         "expressionsOptionalChainingOperator": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-optionalchainingoperator.js",
             "fileName": "expressions-optionalchainingoperator.html",
