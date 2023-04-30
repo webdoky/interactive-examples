@@ -24,6 +24,12 @@
             "title": "Демо JavaScript: Object.entries()",
             "type": "js"
         },
+        "objectFromEntries": {
+            "exampleCode": "./live-examples/js-examples/object/object-fromentries.js",
+            "fileName": "object-fromentries.html",
+            "title": "Демо JavaScript: Object.fromEntries()",
+            "type": "js"
+        },
         "objectFreeze": {
             "exampleCode": "./live-examples/js-examples/object/object-freeze.js",
             "fileName": "object-freeze.html",
