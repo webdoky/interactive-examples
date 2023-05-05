@@ -135,6 +135,14 @@
             "title": "Демо HTML: <input type=\"time\">",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "url": {
+            "exampleCode": "./live-examples/html-examples/input/url.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-url.html",
+            "title": "Демо HTML: <input type=\"url\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
         }
     }
 }
