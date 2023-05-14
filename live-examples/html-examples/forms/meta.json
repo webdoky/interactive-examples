@@ -8,6 +8,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "datalist": {
+            "exampleCode": "./live-examples/html-examples/forms/datalist.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/datalist.css",
+            "fileName": "datalist.html",
+            "title": "Демо HTML: <datalist>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "form": {
             "exampleCode": "./live-examples/html-examples/forms/form.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/form.css",
