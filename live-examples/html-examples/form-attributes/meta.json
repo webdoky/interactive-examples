@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "readonly": {
+            "exampleCode": "./live-examples/html-examples/form-attributes/attribute-readonly.html",
+            "cssExampleSrc": "./live-examples/html-examples/form-attributes/css/attribute-readonly.css",
+            "fileName": "attribute-readonly.html",
+            "title": "Демо HTML: readonly",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        }
+    }
+}
