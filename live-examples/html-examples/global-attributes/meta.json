@@ -7,6 +7,14 @@
             "title": "Демо HTML: class",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "enterkeyhint": {
+            "exampleCode": "./live-examples/html-examples/global-attributes/attribute-enterkeyhint.html",
+            "cssExampleSrc": "./live-examples/html-examples/global-attributes/css/attribute-enterkeyhint.css",
+            "fileName": "attribute-enterkeyhint.html",
+            "title": "Демо HTML: enterkeyhint",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
         }
     }
 }
