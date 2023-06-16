@@ -24,6 +24,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "progress": {
+            "exampleCode": "./live-examples/html-examples/forms/progress.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/progress.css",
+            "fileName": "progress.html",
+            "title": "Демо HTML: <progress>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "select": {
             "exampleCode": "./live-examples/html-examples/forms/select.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/select.css",
