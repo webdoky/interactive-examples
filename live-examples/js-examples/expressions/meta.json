@@ -48,6 +48,12 @@
             "title": "Демо JavaScript: Вирази - Синтаксис розгортання",
             "type": "js"
         },
+        "expressionsThis": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-this.js",
+            "fileName": "expressions-this.html",
+            "title": "Демо JavaScript: Вирази - this",
+            "type": "js"
+        },
         "expressionsTypeof": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-typeof.js",
             "fileName": "expressions-typeof.html",
