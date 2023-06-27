@@ -24,6 +24,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "meter": {
+            "exampleCode": "./live-examples/html-examples/forms/meter.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/meter.css",
+            "fileName": "meter.html",
+            "title": "Демо HTML: <meter>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "progress": {
             "exampleCode": "./live-examples/html-examples/forms/progress.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/progress.css",
