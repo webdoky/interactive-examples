@@ -1,5 +1,13 @@
 {
     "pages": {
+        "audio": {
+            "exampleCode": "./live-examples/html-examples/image-and-multimedia/audio.html",
+            "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/audio.css",
+            "fileName": "audio.html",
+            "title": "Демо HTML: <audio>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "img": {
             "exampleCode": "./live-examples/html-examples/image-and-multimedia/img.html",
             "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/img.css",

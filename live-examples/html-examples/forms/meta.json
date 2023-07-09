@@ -8,6 +8,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "datalist": {
+            "exampleCode": "./live-examples/html-examples/forms/datalist.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/datalist.css",
+            "fileName": "datalist.html",
+            "title": "Демо HTML: <datalist>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "form": {
             "exampleCode": "./live-examples/html-examples/forms/form.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/form.css",
@@ -23,6 +31,22 @@
             "title": "Демо HTML: <label>",
             "type": "tabbed",
             "height": "tabbed-shorter"
+        },
+        "meter": {
+            "exampleCode": "./live-examples/html-examples/forms/meter.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/meter.css",
+            "fileName": "meter.html",
+            "title": "Демо HTML: <meter>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
+        "progress": {
+            "exampleCode": "./live-examples/html-examples/forms/progress.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/progress.css",
+            "fileName": "progress.html",
+            "title": "Демо HTML: <progress>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
         },
         "select": {
             "exampleCode": "./live-examples/html-examples/forms/select.html",

@@ -136,13 +136,19 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "url": {
+            "exampleCode": "./live-examples/html-examples/input/url.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-url.html",
+            "title": "Демо HTML: <input type=\"url\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "week": {
             "exampleCode": "./live-examples/html-examples/input/week.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
             "fileName": "input-week.html",
-            "title": "Демо HTML: <input type=\"week\">",
-            "type": "tabbed",
-            "height": "tabbed-shorter"
+            "title": "Демо HTML: <input type=\"week\">"
         }
     }
 }
