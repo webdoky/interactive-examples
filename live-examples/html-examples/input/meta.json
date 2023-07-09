@@ -143,6 +143,12 @@
             "title": "Демо HTML: <input type=\"url\">",
             "type": "tabbed",
             "height": "tabbed-shorter"
+        },
+        "week": {
+            "exampleCode": "./live-examples/html-examples/input/week.html",
+            "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
+            "fileName": "input-week.html",
+            "title": "Демо HTML: <input type=\"week\">"
         }
     }
 }
