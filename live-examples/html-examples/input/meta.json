@@ -148,7 +148,9 @@
             "exampleCode": "./live-examples/html-examples/input/week.html",
             "cssExampleSrc": "./live-examples/html-examples/input/css/single-input.css",
             "fileName": "input-week.html",
-            "title": "Демо HTML: <input type=\"week\">"
+            "title": "Демо HTML: <input type=\"week\">",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
         }
     }
 }
