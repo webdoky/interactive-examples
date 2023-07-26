@@ -1,5 +1,14 @@
 {
     "pages": {
+        "enabled": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/enabled.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/enabled.html",
+            "fileName": "pseudo-class-enabled.html",
+            "title": "Демо CSS: :enabled",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-standard"
+        },
         "not": {
             "cssExampleSrc": "./live-examples/css-examples/pseudo-class/not.css",
             "exampleCode": "./live-examples/css-examples/pseudo-class/not.html",
