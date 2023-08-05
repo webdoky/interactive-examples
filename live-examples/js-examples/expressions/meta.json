@@ -42,6 +42,12 @@
             "title": "Демо JavaScript: Вирази - Оператор необов'язкового ланцюжка",
             "type": "js"
         },
+        "expressionsPropertyAccessors": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-propertyaccessors.js",
+            "fileName": "expressions-propertyaccessors.html",
+            "title": "Демо JavaScript: Вирази - Аксесори властивостей",
+            "type": "js"
+        },
         "expressionsSpreadSyntax": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-spreadsyntax.js",
             "fileName": "expressions-spreadsyntax.html",
