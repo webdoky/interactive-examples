@@ -137,6 +137,12 @@
             "fileName": "array-splice.html",
             "title": "Демо JavaScript: Array.splice()",
             "type": "js"
+        },
+        "arrayUnshift": {
+            "exampleCode": "./live-examples/js-examples/array/array-unshift.js",
+            "fileName": "array-unshift.html",
+            "title": "Демо JavaScript: Array.unshift()",
+            "type": "js"
         }
     }
 }
