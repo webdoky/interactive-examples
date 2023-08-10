@@ -35,6 +35,15 @@
             "type": "tabbed",
             "defaultTab": "css",
             "height": "tabbed-shorter"
+        },
+        "placeholderShown": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/placeholder-shown.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/placeholder-shown.html",
+            "fileName": "pseudo-class-placeholder-shown.html",
+            "title": "Демо CSS: :placeholder-shown",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
         }
     }
 }
