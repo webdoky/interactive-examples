@@ -9,4 +9,4 @@ MyNumberType.prototype.valueOf = function() {
 const object1 = new MyNumberType(4);
 
 console.log(object1 + 3);
-// очікуваний вивід: 7
+// Очікуваний вивід: 7
