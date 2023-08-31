@@ -1,12 +1,8 @@
 const object1 = {
   a: 'якийсь рядок',
-  b: 42
+  b: 42,
+  c: false,
 };
 
-for (const [key, value] of Object.entries(object1)) {
-  console.log(`${key}: ${value}`);
-}
-
-// Очікуваний вивід:
-// "a: якийсь рядок"
-// "b: 42"
+console.log(Object.values(object1));
+// Очікуваний вивід: Array ["якийсь рядок", 42, false]
