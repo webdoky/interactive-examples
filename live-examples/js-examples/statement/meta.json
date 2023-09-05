@@ -47,6 +47,12 @@
             "fileName": "statement-trycatch.html",
             "title": "Демо JavaScript: Інструкція - Try...Catch",
             "type": "js"
+        },
+        "statementVar": {
+            "exampleCode": "./live-examples/js-examples/statement/statement-var.js",
+            "fileName": "statement-var.html",
+            "title": "Демо JavaScript: Інструкція - Var",
+            "type": "js"
         }
     }
 }

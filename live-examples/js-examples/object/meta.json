@@ -42,6 +42,12 @@
             "title": "Демо JavaScript: Object.getOwnPropertyNames()",
             "type": "js"
         },
+        "objectHasOwn": {
+            "exampleCode": "./live-examples/js-examples/object/object-hasown.js",
+            "fileName": "object-hasown.html",
+            "title": "Демо JavaScript: Object.hasOwn()",
+            "type": "js"
+        },
         "objectIs": {
             "exampleCode": "./live-examples/js-examples/object/object-is.js",
             "fileName": "object-is.html",

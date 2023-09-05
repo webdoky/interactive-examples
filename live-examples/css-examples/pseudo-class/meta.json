@@ -44,6 +44,24 @@
             "type": "tabbed",
             "defaultTab": "css",
             "height": "tabbed-shorter"
+        },
+        "readOnly": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/read-only.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/read-only.html",
+            "fileName": "pseudo-class-read-only.html",
+            "title": "Демо CSS: :read-only",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        },
+        "readWrite": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/read-write.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/read-write.html",
+            "fileName": "pseudo-class-read-write.html",
+            "title": "Демо CSS: :read-write",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
         }
     }
 }
