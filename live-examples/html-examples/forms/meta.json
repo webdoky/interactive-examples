@@ -40,6 +40,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "option": {
+            "exampleCode": "./live-examples/html-examples/forms/option.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/option.css",
+            "fileName": "option.html",
+            "title": "Демо HTML: <option>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "progress": {
             "exampleCode": "./live-examples/html-examples/forms/progress.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/progress.css",
