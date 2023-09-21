@@ -1,5 +1,14 @@
 {
     "pages": {
+        "checked": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/checked.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/checked.html",
+            "fileName": "pseudo-class-checked.html",
+            "title": "Демо CSS: :checked",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        },
         "default": {
             "cssExampleSrc": "./live-examples/css-examples/pseudo-class/default.css",
             "exampleCode": "./live-examples/css-examples/pseudo-class/default.html",
