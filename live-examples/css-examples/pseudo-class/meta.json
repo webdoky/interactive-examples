@@ -27,6 +27,15 @@
             "defaultTab": "css",
             "height": "tabbed-standard"
         },
+        "invalid": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/invalid.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/invalid.html",
+            "fileName": "pseudo-class-invalid.html",
+            "title": "Демо CSS: :invalid",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        },
         "not": {
             "cssExampleSrc": "./live-examples/css-examples/pseudo-class/not.css",
             "exampleCode": "./live-examples/css-examples/pseudo-class/not.html",
