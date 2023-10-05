@@ -1,5 +1,13 @@
 {
     "pages": {
+        "area": {
+            "exampleCode": "./live-examples/html-examples/image-and-multimedia/area.html",
+            "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/area.css",
+            "fileName": "area.html",
+            "title": "Демо HTML: <area>",
+            "type": "tabbed",
+            "height": "tabbed-taller"
+        },
         "audio": {
             "exampleCode": "./live-examples/html-examples/image-and-multimedia/audio.html",
             "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/audio.css",
