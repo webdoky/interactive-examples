@@ -89,6 +89,15 @@
             "type": "tabbed",
             "defaultTab": "css",
             "height": "tabbed-shorter"
+        },
+        "valid": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/valid.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/valid.html",
+            "fileName": "pseudo-class-valid.html",
+            "title": "Демо CSS: :valid",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
         }
     }
 }
