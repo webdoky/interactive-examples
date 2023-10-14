@@ -36,6 +36,15 @@
             "defaultTab": "css",
             "height": "tabbed-standard"
         },
+        "inRange": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/in-range.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/in-range.html",
+            "fileName": "pseudo-class-in-range.html",
+            "title": "Демо CSS: :in-range",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        },
         "invalid": {
             "cssExampleSrc": "./live-examples/css-examples/pseudo-class/invalid.css",
             "exampleCode": "./live-examples/css-examples/pseudo-class/invalid.html",
