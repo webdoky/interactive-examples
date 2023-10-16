@@ -18,6 +18,12 @@
             "title": "Демо JavaScript: Вирази - Присвоєння з деструктуруванням",
             "type": "js"
         },
+        "expressionsLogicalAND": {
+            "exampleCode": "./live-examples/js-examples/expressions/expressions-logical-and.js",
+            "fileName": "expressions-logical-and.html",
+            "title": "Демо JavaScript: Вирази - Логічне І",
+            "type": "js"
+        },
         "expressionsNewOperator": {
             "exampleCode": "./live-examples/js-examples/expressions/expressions-newoperator.js",
             "fileName": "expressions-newoperator.html",
