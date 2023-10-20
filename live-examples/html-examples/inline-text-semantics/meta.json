@@ -16,6 +16,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "i": {
+            "exampleCode": "./live-examples/html-examples/inline-text-semantics/i.html",
+            "cssExampleSrc": "./live-examples/html-examples/inline-text-semantics/css/i.css",
+            "fileName": "i.html",
+            "title": "Демо HTML: <i>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "span": {
             "exampleCode": "./live-examples/html-examples/inline-text-semantics/span.html",
             "cssExampleSrc": "./live-examples/html-examples/inline-text-semantics/css/span.css",
