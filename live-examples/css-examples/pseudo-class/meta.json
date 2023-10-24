@@ -108,6 +108,15 @@
             "defaultTab": "css",
             "height": "tabbed-shorter"
         },
+        "required": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/required.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/required.html",
+            "fileName": "pseudo-class-required.html",
+            "title": "Демо CSS: :required",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-standard"
+        },
         "valid": {
             "cssExampleSrc": "./live-examples/css-examples/pseudo-class/valid.css",
             "exampleCode": "./live-examples/css-examples/pseudo-class/valid.html",
