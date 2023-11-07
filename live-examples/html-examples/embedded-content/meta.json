@@ -7,6 +7,14 @@
             "title": "Демо HTML: <iframe>",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "object": {
+            "exampleCode": "./live-examples/html-examples/embedded-content/object.html",
+            "cssExampleSrc": "./live-examples/html-examples/embedded-content/css/object.css",
+            "fileName": "object.html",
+            "title": "Демо HTML: <object>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
         }
     }
 }
