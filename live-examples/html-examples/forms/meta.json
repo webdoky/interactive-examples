@@ -16,6 +16,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "fieldset": {
+            "exampleCode": "./live-examples/html-examples/forms/fieldset.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/fieldset.css",
+            "fileName": "fieldset.html",
+            "title": "Демо HTML: <fieldset>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "form": {
             "exampleCode": "./live-examples/html-examples/forms/form.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/form.css",
