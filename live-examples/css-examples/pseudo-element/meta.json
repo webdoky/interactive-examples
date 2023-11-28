@@ -1,5 +1,14 @@
 {
     "pages": {
+        "firstLine": {
+            "exampleCode": "./live-examples/css-examples/pseudo-element/first-line.html",
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-element/first-line.css",
+            "fileName": "pseudo-element-first-line.html",
+            "title": "Демо HTML: ::first-line",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
+        },
         "placeholder": {
             "exampleCode": "./live-examples/css-examples/pseudo-element/placeholder.html",
             "cssExampleSrc": "./live-examples/css-examples/pseudo-element/placeholder.css",
