@@ -15,6 +15,14 @@
             "title": "Демо HTML: <object>",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "source": {
+            "exampleCode": "./live-examples/html-examples/embedded-content/source.html",
+            "cssExampleSrc": "./live-examples/html-examples/embedded-content/css/source.css",
+            "fileName": "source.html",
+            "title": "Демо HTML: <source>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
         }
     }
 }
