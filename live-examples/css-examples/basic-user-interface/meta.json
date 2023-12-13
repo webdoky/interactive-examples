@@ -7,6 +7,13 @@
             "title": "Демо CSS: box-sizing",
             "type": "css"
         },
+        "caretColor": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/caret-color.css",
+            "exampleCode": "./live-examples/css-examples/basic-user-interface/caret-color.html",
+            "fileName": "caret-color.html",
+            "title": "Демо CSS: caret-color",
+            "type": "css"
+        },
         "cursor": {
             "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/cursor.css",
             "exampleCode": "./live-examples/css-examples/basic-user-interface/cursor.html",
