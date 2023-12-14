@@ -13,6 +13,13 @@
             "fileName": "object-fit.html",
             "title": "Демо CSS: object-fit",
             "type": "css"
+        },
+        "objectPosition": {
+            "cssExampleSrc": "./live-examples/css-examples/images/object-position.css",
+            "exampleCode": "./live-examples/css-examples/images/object-position.html",
+            "fileName": "object-position.html",
+            "title": "Демо CSS: object-position",
+            "type": "css"
         }
     }
 }
