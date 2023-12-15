@@ -1,5 +1,13 @@
 {
     "pages": {
+        "autocomplete": {
+            "exampleCode": "./live-examples/html-examples/form-attributes/attribute-autocomplete.html",
+            "cssExampleSrc": "./live-examples/html-examples/form-attributes/css/attribute-autocomplete.css",
+            "fileName": "attribute-autocomplete.html",
+            "title": "Демо HTML: autocomplete",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "readonly": {
             "exampleCode": "./live-examples/html-examples/form-attributes/attribute-readonly.html",
             "cssExampleSrc": "./live-examples/html-examples/form-attributes/css/attribute-readonly.css",
