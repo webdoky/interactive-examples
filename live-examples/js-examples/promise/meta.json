@@ -6,6 +6,12 @@
             "title": "Демо JavaScript: Promise.all()",
             "type": "js"
         },
+        "promiseConstructor": {
+            "exampleCode": "./live-examples/js-examples/promise/promise-constructor.js",
+            "fileName": "promise-constructor.html",
+            "title": "Демо JavaScript: Конструктор Promise",
+            "type": "js"
+        },
         "promiseResolve": {
             "exampleCode": "./live-examples/js-examples/promise/promise-resolve.js",
             "fileName": "promise-resolve.html",
