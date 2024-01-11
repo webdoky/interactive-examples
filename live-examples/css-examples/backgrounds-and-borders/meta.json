@@ -42,6 +42,13 @@
             "title": "Демо CSS: border",
             "type": "css"
         },
+        "borderColor": {
+            "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/border-color.css",
+            "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/border-color.html",
+            "fileName": "border-color.html",
+            "title": "Демо CSS: border-color",
+            "type": "css"
+        },
         "borderRadius": {
             "cssExampleSrc": "./live-examples/css-examples/backgrounds-and-borders/border-radius.css",
             "exampleCode": "./live-examples/css-examples/backgrounds-and-borders/border-radius.html",
