@@ -1,5 +1,12 @@
 {
     "pages": {
+        "appearance": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/appearance.css",
+            "exampleCode": "./live-examples/css-examples/basic-user-interface/appearance.html",
+            "fileName": "appearance.html",
+            "title": "Демо CSS: appearance",
+            "type": "css"
+        },
         "boxSizing": {
             "cssExampleSrc": "./live-examples/css-examples/basic-user-interface/box-sizing.css",
             "exampleCode": "./live-examples/css-examples/basic-user-interface/box-sizing.html",
