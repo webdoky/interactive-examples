@@ -48,6 +48,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "optgroup": {
+            "exampleCode": "./live-examples/html-examples/forms/optgroup.html",
+            "cssExampleSrc": "./live-examples/html-examples/forms/css/optgroup.css",
+            "fileName": "optgroup.html",
+            "title": "Демо HTML: <optgroup>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "option": {
             "exampleCode": "./live-examples/html-examples/forms/option.html",
             "cssExampleSrc": "./live-examples/html-examples/forms/css/option.css",
