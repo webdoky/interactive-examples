@@ -7,6 +7,14 @@
             "title": "Демо HTML: <link>",
             "type": "tabbed",
             "height": "tabbed-shorter"
+        },
+        "style": {
+            "exampleCode": "./live-examples/html-examples/document-metadata/style.html",
+            "cssExampleSrc": "./live-examples/html-examples/document-metadata/css/style.css",
+            "fileName": "style.html",
+            "title": "Демо HTML: <style>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
         }
     }
 }
