@@ -1,9 +1,15 @@
 {
     "pages": {
+        "functionsArguments": {
+            "exampleCode": "./live-examples/js-examples/functions/functions-arguments.js",
+            "fileName": "functions-arguments.html",
+            "title": "Демо JavaScript: Аргументи функцій",
+            "type": "js"
+        },
         "functionsArrow": {
             "exampleCode": "./live-examples/js-examples/functions/functions-arrow.js",
             "fileName": "functions-arrow.html",
-            "title": "Демо JavaScript: Functions =>",
+            "title": "Демо JavaScript: Функції =>",
             "type": "js"
         }
     }
