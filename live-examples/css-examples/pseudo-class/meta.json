@@ -134,6 +134,15 @@
             "type": "tabbed",
             "defaultTab": "css",
             "height": "tabbed-shorter"
+        },
+        "where": {
+            "cssExampleSrc": "./live-examples/css-examples/pseudo-class/where.css",
+            "exampleCode": "./live-examples/css-examples/pseudo-class/where.html",
+            "fileName": "pseudo-class-where.html",
+            "title": "Демо CSS: :where",
+            "type": "tabbed",
+            "defaultTab": "css",
+            "height": "tabbed-shorter"
         }
     }
 }
