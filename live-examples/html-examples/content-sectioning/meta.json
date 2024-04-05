@@ -7,6 +7,14 @@
             "title": "Демо HTML: <h1-h6>",
             "type": "tabbed",
             "height": "tabbed-standard"
+        },
+        "section": {
+            "exampleCode": "./live-examples/html-examples/content-sectioning/section.html",
+            "cssExampleSrc": "./live-examples/html-examples/content-sectioning/css/section.css",
+            "fileName": "section.html",
+            "title": "Демо HTML: <section>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
         }
     }
 }
