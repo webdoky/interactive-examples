@@ -8,6 +8,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "header": {
+            "exampleCode": "./live-examples/html-examples/content-sectioning/header.html",
+            "cssExampleSrc": "./live-examples/html-examples/content-sectioning/css/header.css",
+            "fileName": "header.html",
+            "title": "Демо HTML: <header>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "section": {
             "exampleCode": "./live-examples/html-examples/content-sectioning/section.html",
             "cssExampleSrc": "./live-examples/html-examples/content-sectioning/css/section.css",
