@@ -23,6 +23,14 @@
             "title": "Демо HTML: <section>",
             "type": "tabbed",
             "height": "tabbed-standard"
-        }
+        },
+        "article": {
+            "exampleCode": "./live-examples/html-examples/content-sectioning/article.html",
+            "cssExampleSrc": "./live-examples/html-examples/content-sectioning/css/article.css",
+            "fileName": "article.html",
+            "title": "Демо HTML: <article>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+       }
     }
 }
