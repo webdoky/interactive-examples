@@ -16,6 +16,14 @@
             "type": "tabbed",
             "height": "tabbed-shorter"
         },
+        "li": {
+            "exampleCode": "./live-examples/html-examples/text-content/li.html",
+            "cssExampleSrc": "./live-examples/html-examples/text-content/css/li.css",
+            "fileName": "li.html",
+            "title": "Демо HTML: <li>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        },
         "ol": {
             "exampleCode": "./live-examples/html-examples/text-content/ol.html",
             "cssExampleSrc": "./live-examples/html-examples/text-content/css/ol.css",
