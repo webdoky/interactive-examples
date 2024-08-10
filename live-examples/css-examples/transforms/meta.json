@@ -1,23 +1,29 @@
 {
-    "pages": {
-        "rotate": {
-            "exampleCode": "./live-examples/css-examples/transforms/function-rotate.html",
-            "fileName": "function-rotate.html",
-            "title": "Демо CSS: rotate()",
-            "type": "css"
-        },
-        "transform": {
-            "exampleCode": "./live-examples/css-examples/transforms/transform.html",
-            "fileName": "transform.html",
-            "title": "Демо CSS: transform",
-            "type": "css"
-        },
-        "translate": {
-            "cssExampleSrc": "./live-examples/css-examples/transforms/translate.css",
-            "exampleCode": "./live-examples/css-examples/transforms/function-translate.html",
-            "fileName": "function-translate.html",
-            "title": "Демо CSS: translate()",
-            "type": "css"
-        }
+  "pages": {
+    "rotate": {
+      "exampleCode": "./live-examples/css-examples/transforms/function-rotate.html",
+      "fileName": "function-rotate.html",
+      "title": "Демо CSS: rotate()",
+      "type": "css"
+    },
+    "transform": {
+      "exampleCode": "./live-examples/css-examples/transforms/transform.html",
+      "fileName": "transform.html",
+      "title": "Демо CSS: transform",
+      "type": "css"
+    },
+    "translate": {
+      "cssExampleSrc": "./live-examples/css-examples/transforms/translate.css",
+      "exampleCode": "./live-examples/css-examples/transforms/function-translate.html",
+      "fileName": "function-translate.html",
+      "title": "Демо CSS: translate()",
+      "type": "css"
+    },
+    "scale": {
+      "exampleCode": "./live-examples/css-examples/transforms/function-scale.html",
+      "fileName": "function-scale.html",
+      "title": "Демо CSS: scale()",
+      "type": "css"
     }
+  }
 }
