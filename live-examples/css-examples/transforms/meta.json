@@ -19,10 +19,10 @@
       "title": "Демо CSS: translate()",
       "type": "css"
     },
-    "scale": {
+    "functionScale": {
       "exampleCode": "./live-examples/css-examples/transforms/function-scale.html",
       "fileName": "function-scale.html",
-      "title": "Демо CSS: scale()",
+      "title": "CSS Демо: scale()",
       "type": "css"
     }
   }
