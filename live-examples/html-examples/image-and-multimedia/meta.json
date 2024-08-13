@@ -24,6 +24,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "track": {
+            "exampleCode": "./live-examples/html-examples/image-and-multimedia/track.html",
+            "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/track.css",
+            "fileName": "track.html",
+            "title": "Демо HTML: <track>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
         "video": {
             "exampleCode": "./live-examples/html-examples/image-and-multimedia/video.html",
             "cssExampleSrc": "./live-examples/html-examples/image-and-multimedia/css/video.css",
