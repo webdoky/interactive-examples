@@ -1,22 +1,31 @@
 {
-    "pages": {
-        "firstLine": {
-            "exampleCode": "./live-examples/css-examples/pseudo-element/first-line.html",
-            "cssExampleSrc": "./live-examples/css-examples/pseudo-element/first-line.css",
-            "fileName": "pseudo-element-first-line.html",
-            "title": "Демо HTML: ::first-line",
-            "type": "tabbed",
-            "defaultTab": "css",
-            "height": "tabbed-shorter"
-        },
-        "placeholder": {
-            "exampleCode": "./live-examples/css-examples/pseudo-element/placeholder.html",
-            "cssExampleSrc": "./live-examples/css-examples/pseudo-element/placeholder.css",
-            "fileName": "pseudo-element-placeholder.html",
-            "title": "Демо HTML: ::placeholder",
-            "type": "tabbed",
-            "defaultTab": "css",
-            "height": "tabbed-shorter"
-        }
+  "pages": {
+    "before": {
+      "exampleCode": "./live-examples/css-examples/pseudo-element/before.html",
+      "cssExampleSrc": "./live-examples/css-examples/pseudo-element/before.css",
+      "fileName": "pseudo-element-before.html",
+      "title": "Демо HTML: ::before",
+      "type": "tabbed",
+      "defaultTab": "css",
+      "height": "tabbed-standard"
+    },
+    "firstLine": {
+      "exampleCode": "./live-examples/css-examples/pseudo-element/first-line.html",
+      "cssExampleSrc": "./live-examples/css-examples/pseudo-element/first-line.css",
+      "fileName": "pseudo-element-first-line.html",
+      "title": "Демо HTML: ::first-line",
+      "type": "tabbed",
+      "defaultTab": "css",
+      "height": "tabbed-shorter"
+    },
+    "placeholder": {
+      "exampleCode": "./live-examples/css-examples/pseudo-element/placeholder.html",
+      "cssExampleSrc": "./live-examples/css-examples/pseudo-element/placeholder.css",
+      "fileName": "pseudo-element-placeholder.html",
+      "title": "Демо HTML: ::placeholder",
+      "type": "tabbed",
+      "defaultTab": "css",
+      "height": "tabbed-shorter"
     }
+  }
 }
