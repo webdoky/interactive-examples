@@ -8,7 +8,7 @@ a::before {
 }
 
 .local-link::before {
-  content: url('../../media/examples/firefox-logo.svg');
+  content: url('../../media/examples/webdoky-logo.png');
   display: inline-block;
   width: 15px;
   height: 15px;
