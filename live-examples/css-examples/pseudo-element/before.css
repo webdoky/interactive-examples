@@ -8,7 +8,9 @@ a::before {
 }
 
 .local-link::before {
-  content: url('../../media/examples/webdoky-logo.png');
+  background-image: url('../../media/examples/webdoky-logo.png');
+  background-size: 15px 15px;
+  content: '';
   display: inline-block;
   width: 15px;
   height: 15px;
