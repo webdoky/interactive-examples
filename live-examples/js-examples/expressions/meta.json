@@ -1,82 +1,88 @@
 {
-    "pages": {
-        "expressionsConditionalOperators": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-conditionaloperators.js",
-            "fileName": "expressions-conditionaloperators.html",
-            "title": "Демо JavaScript: Вирази - Умовний оператор",
-            "type": "js"
-        },
-        "expressionsDeleteOperator": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-deleteoperator.js",
-            "fileName": "expressions-deleteoperator.html",
-            "title": "Демо JavaScript: Вирази - Оператор delete",
-            "type": "js"
-        },
-        "expressionsDestructuringAssignment": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-destructuringassignment.js",
-            "fileName": "expressions-destructuringassignment.html",
-            "title": "Демо JavaScript: Вирази - Присвоєння з деструктуруванням",
-            "type": "js"
-        },
-        "expressionsFunctionExpression": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-functionexpression.js",
-            "fileName": "expressions-functionexpression.html",
-            "title": "Демо JavaScript: Вирази - Вираз function",
-            "type": "js"
-        },
-        "expressionsLogicalAND": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-logical-and.js",
-            "fileName": "expressions-logical-and.html",
-            "title": "Демо JavaScript: Вирази - Логічне І",
-            "type": "js"
-        },
-        "expressionsNewOperator": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-newoperator.js",
-            "fileName": "expressions-newoperator.html",
-            "title": "Демо JavaScript: Вирази - Оператор",
-            "type": "js"
-        },
-        "expressionsNullishCoalescingOperator": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-nullishcoalescingoperator.js",
-            "fileName": "expressions-nullishcoalescingoperator.html",
-            "title": "Демо JavaScript: Вирази - Оператор null-злиття",
-            "type": "js"
-        },
-        "expressionsObjectInitializer": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-objectinitializer.js",
-            "fileName": "expressions-objectinitializer.html",
-            "title": "Демо JavaScript: Вирази - Об'єктний ініціалізатор",
-            "type": "js"
-        },
-        "expressionsOptionalChainingOperator": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-optionalchainingoperator.js",
-            "fileName": "expressions-optionalchainingoperator.html",
-            "title": "Демо JavaScript: Вирази - Оператор необов'язкового ланцюжка",
-            "type": "js"
-        },
-        "expressionsPropertyAccessors": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-propertyaccessors.js",
-            "fileName": "expressions-propertyaccessors.html",
-            "title": "Демо JavaScript: Вирази - Аксесори властивостей",
-            "type": "js"
-        },
-        "expressionsSpreadSyntax": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-spreadsyntax.js",
-            "fileName": "expressions-spreadsyntax.html",
-            "title": "Демо JavaScript: Вирази - Синтаксис розгортання",
-            "type": "js"
-        },
-        "expressionsThis": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-this.js",
-            "fileName": "expressions-this.html",
-            "title": "Демо JavaScript: Вирази - this",
-            "type": "js"
-        },
-        "expressionsTypeof": {
-            "exampleCode": "./live-examples/js-examples/expressions/expressions-typeof.js",
-            "fileName": "expressions-typeof.html",
-            "title": "Демо JavaScript: Вирази - typeof",
-            "type": "js"
-        }
+  "pages": {
+    "expressionsConditionalOperators": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-conditionaloperators.js",
+      "fileName": "expressions-conditionaloperators.html",
+      "title": "Демо JavaScript: Вирази - Умовний оператор",
+      "type": "js"
+    },
+    "expressionsDeleteOperator": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-deleteoperator.js",
+      "fileName": "expressions-deleteoperator.html",
+      "title": "Демо JavaScript: Вирази - Оператор delete",
+      "type": "js"
+    },
+    "expressionsDestructuringAssignment": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-destructuringassignment.js",
+      "fileName": "expressions-destructuringassignment.html",
+      "title": "Демо JavaScript: Вирази - Присвоєння з деструктуруванням",
+      "type": "js"
+    },
+    "expressionsFunctionExpression": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-functionexpression.js",
+      "fileName": "expressions-functionexpression.html",
+      "title": "Демо JavaScript: Вирази - Вираз function",
+      "type": "js"
+    },
+    "expressionsLogicalAND": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-logical-and.js",
+      "fileName": "expressions-logical-and.html",
+      "title": "Демо JavaScript: Вирази - Логічне І",
+      "type": "js"
+    },
+    "expressionsLogicalOR": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-logical-or.js",
+      "fileName": "expressions-logical-or.html",
+      "title": "Демо JavaScript: Вирази - Логічне АБО",
+      "type": "js"
+    },
+    "expressionsNewOperator": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-newoperator.js",
+      "fileName": "expressions-newoperator.html",
+      "title": "Демо JavaScript: Вирази - Оператор",
+      "type": "js"
+    },
+    "expressionsNullishCoalescingOperator": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-nullishcoalescingoperator.js",
+      "fileName": "expressions-nullishcoalescingoperator.html",
+      "title": "Демо JavaScript: Вирази - Оператор null-злиття",
+      "type": "js"
+    },
+    "expressionsObjectInitializer": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-objectinitializer.js",
+      "fileName": "expressions-objectinitializer.html",
+      "title": "Демо JavaScript: Вирази - Об'єктний ініціалізатор",
+      "type": "js"
+    },
+    "expressionsOptionalChainingOperator": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-optionalchainingoperator.js",
+      "fileName": "expressions-optionalchainingoperator.html",
+      "title": "Демо JavaScript: Вирази - Оператор необов'язкового ланцюжка",
+      "type": "js"
+    },
+    "expressionsPropertyAccessors": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-propertyaccessors.js",
+      "fileName": "expressions-propertyaccessors.html",
+      "title": "Демо JavaScript: Вирази - Аксесори властивостей",
+      "type": "js"
+    },
+    "expressionsSpreadSyntax": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-spreadsyntax.js",
+      "fileName": "expressions-spreadsyntax.html",
+      "title": "Демо JavaScript: Вирази - Синтаксис розгортання",
+      "type": "js"
+    },
+    "expressionsThis": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-this.js",
+      "fileName": "expressions-this.html",
+      "title": "Демо JavaScript: Вирази - this",
+      "type": "js"
+    },
+    "expressionsTypeof": {
+      "exampleCode": "./live-examples/js-examples/expressions/expressions-typeof.js",
+      "fileName": "expressions-typeof.html",
+      "title": "Демо JavaScript: Вирази - typeof",
+      "type": "js"
     }
+  }
 }
