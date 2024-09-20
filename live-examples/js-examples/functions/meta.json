@@ -15,7 +15,7 @@
     "functionsDefault": {
       "exampleCode": "./live-examples/js-examples/functions/functions-default.js",
       "fileName": "functions-default.html",
-      "title": "Демо JavaScript: Функції усталено",
+      "title": "Демо JavaScript: Усталені значення параметрів функцій",
       "type": "js"
     }
   }
