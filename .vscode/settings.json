@@ -12,5 +12,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.suggest.insertMode": "replace",
         "gitlens.codeLens.scopes": ["document"]
-    }
+    },
+    "cSpell.language": "en,uk"
 }
