@@ -1,11 +1,18 @@
 {
-    "pages": {
-        "lineHeight": {
-            "cssExampleSrc": "./live-examples/css-examples/transitions/line-height.css",
-            "exampleCode": "./live-examples/css-examples/transitions/line-height.html",
-            "fileName": "line-height.html",
-            "title": "Демо CSS: line-height",
-            "type": "css"
-        }
+  "pages": {
+    "lineHeight": {
+      "cssExampleSrc": "./live-examples/css-examples/transitions/line-height.css",
+      "exampleCode": "./live-examples/css-examples/transitions/line-height.html",
+      "fileName": "line-height.html",
+      "title": "Демо CSS: line-height",
+      "type": "css"
+    },
+    "transition": {
+      "cssExampleSrc": "./live-examples/css-examples/transitions/transition.css",
+      "exampleCode": "./live-examples/css-examples/transitions/transition.html",
+      "fileName": "transition.html",
+      "title": "Демо CSS: transition",
+      "type": "css"
     }
+  }
 }
