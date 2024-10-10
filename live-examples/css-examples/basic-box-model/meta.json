@@ -28,6 +28,13 @@
             "title": "Демо CSS: overflow",
             "type": "css"
         },
+        "overflowX": {
+            "cssExampleSrc": "./live-examples/css-examples/basic-box-model/overflow.css",
+            "exampleCode": "./live-examples/css-examples/basic-box-model/overflow-x.html",
+            "fileName": "overflow-x.html",
+            "title": "Демо CSS: overflow-x",
+            "type": "css"
+        },
         "padding": {
             "cssExampleSrc": "./live-examples/css-examples/basic-box-model/padding.css",
             "exampleCode": "./live-examples/css-examples/basic-box-model/padding.html",
