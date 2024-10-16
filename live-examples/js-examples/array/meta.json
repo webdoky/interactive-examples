@@ -1,148 +1,154 @@
 {
-    "pages": {
-        "arrayConcat": {
-            "exampleCode": "./live-examples/js-examples/array/array-concat.js",
-            "fileName": "array-concat.html",
-            "title": "Демо JavaScript: Array.concat()",
-            "type": "js"
-        },
-        "arrayEvery": {
-            "exampleCode": "./live-examples/js-examples/array/array-every.js",
-            "fileName": "array-every.html",
-            "title": "Демо JavaScript: Array.every()",
-            "type": "js"
-        },
-        "arrayFilter": {
-            "exampleCode": "./live-examples/js-examples/array/array-filter.js",
-            "fileName": "array-filter.html",
-            "title": "Демо JavaScript: Array.filter()",
-            "type": "js"
-        },
-        "arrayFind": {
-            "exampleCode": "./live-examples/js-examples/array/array-find.js",
-            "fileName": "array-find.html",
-            "title": "Демо JavaScript: Array.find()",
-            "type": "js"
-        },
-        "arrayFindIndex": {
-            "exampleCode": "./live-examples/js-examples/array/array-findindex.js",
-            "fileName": "array-findindex.html",
-            "title": "Демо JavaScript: Array.findIndex()",
-            "type": "js"
-        },
-        "arrayFlat": {
-            "exampleCode": "./live-examples/js-examples/array/array-flat.js",
-            "fileName": "array-flat.html",
-            "title": "Демо JavaScript: Array.flat()",
-            "type": "js"
-        },
-        "arrayForEach": {
-            "exampleCode": "./live-examples/js-examples/array/array-foreach.js",
-            "fileName": "array-foreach.html",
-            "title": "Демо JavaScript: Array.forEach()",
-            "type": "js"
-        },
-        "arrayFrom": {
-            "exampleCode": "./live-examples/js-examples/array/array-from.js",
-            "fileName": "array-from.html",
-            "title": "Демо JavaScript: Array.from()",
-            "type": "js"
-        },
-        "arrayIncludes": {
-            "exampleCode": "./live-examples/js-examples/array/array-includes.js",
-            "fileName": "array-includes.html",
-            "title": "Демо JavaScript: Array.includes()",
-            "type": "js"
-        },
-        "arrayIndexof": {
-            "exampleCode": "./live-examples/js-examples/array/array-indexof.js",
-            "fileName": "array-indexof.html",
-            "title": "Демо JavaScript: Array.indexOf()",
-            "type": "js"
-        },
-        "arrayIsArray": {
-            "exampleCode": "./live-examples/js-examples/array/array-isarray.js",
-            "fileName": "array-isarray.html",
-            "title": "Демо JavaScript: Array.isArray()",
-            "type": "js"
-        },
-        "arrayJoin": {
-            "exampleCode": "./live-examples/js-examples/array/array-join.js",
-            "fileName": "array-join.html",
-            "title": "Демо JavaScript: Array.join()",
-            "type": "js"
-        },
-        "arrayLength": {
-            "exampleCode": "./live-examples/js-examples/array/array-length.js",
-            "fileName": "array-length.html",
-            "title": "Демо JavaScript: Array.length",
-            "type": "js"
-        },
-        "arrayMap": {
-            "exampleCode": "./live-examples/js-examples/array/array-map.js",
-            "fileName": "array-map.html",
-            "title": "Демо JavaScript: Array.map()",
-            "type": "js"
-        },
-        "arrayPop": {
-            "exampleCode": "./live-examples/js-examples/array/array-pop.js",
-            "fileName": "array-pop.html",
-            "title": "Демо JavaScript: Array.pop()",
-            "type": "js"
-        },
-        "arrayPush": {
-            "exampleCode": "./live-examples/js-examples/array/array-push.js",
-            "fileName": "array-push.html",
-            "title": "Демо JavaScript: Array.push()",
-            "type": "js"
-        },
-        "arrayReduce": {
-            "exampleCode": "./live-examples/js-examples/array/array-reduce.js",
-            "fileName": "array-reduce.html",
-            "title": "Демо JavaScript: Array.reduce()",
-            "type": "js"
-        },
-        "arrayReverse": {
-            "exampleCode": "./live-examples/js-examples/array/array-reverse.js",
-            "fileName": "array-reverse.html",
-            "title": "Демо JavaScript: Array.reverse()",
-            "type": "js"
-        },
-        "arrayShift": {
-            "exampleCode": "./live-examples/js-examples/array/array-shift.js",
-            "fileName": "array-shift.html",
-            "title": "Демо JavaScript: Array.shift()",
-            "type": "js"
-        },
-        "arraySlice": {
-            "exampleCode": "./live-examples/js-examples/array/array-slice.js",
-            "fileName": "array-slice.html",
-            "title": "Демо JavaScript: Array.slice()",
-            "type": "js"
-        },
-        "arraySome": {
-            "exampleCode": "./live-examples/js-examples/array/array-some.js",
-            "fileName": "array-some.html",
-            "title": "Демо JavaScript: Array.some()",
-            "type": "js"
-        },
-        "arraySort": {
-            "exampleCode": "./live-examples/js-examples/array/array-sort.js",
-            "fileName": "array-sort.html",
-            "title": "Демо JavaScript: Array.sort()",
-            "type": "js"
-        },
-        "arraySplice": {
-            "exampleCode": "./live-examples/js-examples/array/array-splice.js",
-            "fileName": "array-splice.html",
-            "title": "Демо JavaScript: Array.splice()",
-            "type": "js"
-        },
-        "arrayUnshift": {
-            "exampleCode": "./live-examples/js-examples/array/array-unshift.js",
-            "fileName": "array-unshift.html",
-            "title": "Демо JavaScript: Array.unshift()",
-            "type": "js"
-        }
+  "pages": {
+    "arrayConcat": {
+      "exampleCode": "./live-examples/js-examples/array/array-concat.js",
+      "fileName": "array-concat.html",
+      "title": "Демо JavaScript: Array.concat()",
+      "type": "js"
+    },
+    "arrayEvery": {
+      "exampleCode": "./live-examples/js-examples/array/array-every.js",
+      "fileName": "array-every.html",
+      "title": "Демо JavaScript: Array.every()",
+      "type": "js"
+    },
+    "arrayFilter": {
+      "exampleCode": "./live-examples/js-examples/array/array-filter.js",
+      "fileName": "array-filter.html",
+      "title": "Демо JavaScript: Array.filter()",
+      "type": "js"
+    },
+    "arrayFind": {
+      "exampleCode": "./live-examples/js-examples/array/array-find.js",
+      "fileName": "array-find.html",
+      "title": "Демо JavaScript: Array.find()",
+      "type": "js"
+    },
+    "arrayFindIndex": {
+      "exampleCode": "./live-examples/js-examples/array/array-findindex.js",
+      "fileName": "array-findindex.html",
+      "title": "Демо JavaScript: Array.findIndex()",
+      "type": "js"
+    },
+    "arrayFlat": {
+      "exampleCode": "./live-examples/js-examples/array/array-flat.js",
+      "fileName": "array-flat.html",
+      "title": "Демо JavaScript: Array.flat()",
+      "type": "js"
+    },
+    "arrayFlatMap": {
+      "exampleCode": "./live-examples/js-examples/array/array-flatmap.js",
+      "fileName": "array-flatmap.html",
+      "title": "Демо JavaScript: Array.flatMap()",
+      "type": "js"
+    },
+    "arrayForEach": {
+      "exampleCode": "./live-examples/js-examples/array/array-foreach.js",
+      "fileName": "array-foreach.html",
+      "title": "Демо JavaScript: Array.forEach()",
+      "type": "js"
+    },
+    "arrayFrom": {
+      "exampleCode": "./live-examples/js-examples/array/array-from.js",
+      "fileName": "array-from.html",
+      "title": "Демо JavaScript: Array.from()",
+      "type": "js"
+    },
+    "arrayIncludes": {
+      "exampleCode": "./live-examples/js-examples/array/array-includes.js",
+      "fileName": "array-includes.html",
+      "title": "Демо JavaScript: Array.includes()",
+      "type": "js"
+    },
+    "arrayIndexof": {
+      "exampleCode": "./live-examples/js-examples/array/array-indexof.js",
+      "fileName": "array-indexof.html",
+      "title": "Демо JavaScript: Array.indexOf()",
+      "type": "js"
+    },
+    "arrayIsArray": {
+      "exampleCode": "./live-examples/js-examples/array/array-isarray.js",
+      "fileName": "array-isarray.html",
+      "title": "Демо JavaScript: Array.isArray()",
+      "type": "js"
+    },
+    "arrayJoin": {
+      "exampleCode": "./live-examples/js-examples/array/array-join.js",
+      "fileName": "array-join.html",
+      "title": "Демо JavaScript: Array.join()",
+      "type": "js"
+    },
+    "arrayLength": {
+      "exampleCode": "./live-examples/js-examples/array/array-length.js",
+      "fileName": "array-length.html",
+      "title": "Демо JavaScript: Array.length",
+      "type": "js"
+    },
+    "arrayMap": {
+      "exampleCode": "./live-examples/js-examples/array/array-map.js",
+      "fileName": "array-map.html",
+      "title": "Демо JavaScript: Array.map()",
+      "type": "js"
+    },
+    "arrayPop": {
+      "exampleCode": "./live-examples/js-examples/array/array-pop.js",
+      "fileName": "array-pop.html",
+      "title": "Демо JavaScript: Array.pop()",
+      "type": "js"
+    },
+    "arrayPush": {
+      "exampleCode": "./live-examples/js-examples/array/array-push.js",
+      "fileName": "array-push.html",
+      "title": "Демо JavaScript: Array.push()",
+      "type": "js"
+    },
+    "arrayReduce": {
+      "exampleCode": "./live-examples/js-examples/array/array-reduce.js",
+      "fileName": "array-reduce.html",
+      "title": "Демо JavaScript: Array.reduce()",
+      "type": "js"
+    },
+    "arrayReverse": {
+      "exampleCode": "./live-examples/js-examples/array/array-reverse.js",
+      "fileName": "array-reverse.html",
+      "title": "Демо JavaScript: Array.reverse()",
+      "type": "js"
+    },
+    "arrayShift": {
+      "exampleCode": "./live-examples/js-examples/array/array-shift.js",
+      "fileName": "array-shift.html",
+      "title": "Демо JavaScript: Array.shift()",
+      "type": "js"
+    },
+    "arraySlice": {
+      "exampleCode": "./live-examples/js-examples/array/array-slice.js",
+      "fileName": "array-slice.html",
+      "title": "Демо JavaScript: Array.slice()",
+      "type": "js"
+    },
+    "arraySome": {
+      "exampleCode": "./live-examples/js-examples/array/array-some.js",
+      "fileName": "array-some.html",
+      "title": "Демо JavaScript: Array.some()",
+      "type": "js"
+    },
+    "arraySort": {
+      "exampleCode": "./live-examples/js-examples/array/array-sort.js",
+      "fileName": "array-sort.html",
+      "title": "Демо JavaScript: Array.sort()",
+      "type": "js"
+    },
+    "arraySplice": {
+      "exampleCode": "./live-examples/js-examples/array/array-splice.js",
+      "fileName": "array-splice.html",
+      "title": "Демо JavaScript: Array.splice()",
+      "type": "js"
+    },
+    "arrayUnshift": {
+      "exampleCode": "./live-examples/js-examples/array/array-unshift.js",
+      "fileName": "array-unshift.html",
+      "title": "Демо JavaScript: Array.unshift()",
+      "type": "js"
     }
+  }
 }
