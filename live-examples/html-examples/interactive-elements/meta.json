@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "menu": {
+            "exampleCode": "./live-examples/html-examples/interactive-elements/menu.html",
+            "cssExampleSrc": "./live-examples/html-examples/interactive-elements/css/menu.css",
+            "fileName": "menu.html",
+            "title": "Демо HTML: <menu>",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
+        }
+    }
+}
