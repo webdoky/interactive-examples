@@ -1,20 +1,28 @@
 {
-  "pages": {
-    "table": {
-      "exampleCode": "./live-examples/html-examples/table-content/table.html",
-      "cssExampleSrc": "./live-examples/html-examples/table-content/css/table.css",
-      "fileName": "table.html",
-      "title": "Демо HTML: <table>",
-      "type": "tabbed",
-      "height": "tabbed-standard"
-    },
-    "tr": {
-      "exampleCode": "./live-examples/html-examples/table-content/tr.html",
-      "cssExampleSrc": "./live-examples/html-examples/table-content/css/tr.css",
-      "fileName": "tr.html",
-      "title": "Демо HTML: <tr>",
-      "type": "tabbed",
-      "height": "tabbed-taller"
+    "pages": {
+        "table": {
+            "exampleCode": "./live-examples/html-examples/table-content/table.html",
+            "cssExampleSrc": "./live-examples/html-examples/table-content/css/table.css",
+            "fileName": "table.html",
+            "title": "Демо HTML: <table>",
+            "type": "tabbed",
+            "height": "tabbed-standard"
+        },
+        "th": {
+            "exampleCode": "./live-examples/html-examples/table-content/th.html",
+            "cssExampleSrc": "./live-examples/html-examples/table-content/css/th.css",
+            "fileName": "th.html",
+            "title": "Демо HTML: <th>",
+            "type": "tabbed",
+            "height": "tabbed-taller"
+        },
+        "tr": {
+            "exampleCode": "./live-examples/html-examples/table-content/tr.html",
+            "cssExampleSrc": "./live-examples/html-examples/table-content/css/tr.css",
+            "fileName": "tr.html",
+            "title": "Демо HTML: <tr>",
+            "type": "tabbed",
+            "height": "tabbed-taller"
+        }
     }
-  }
 }
