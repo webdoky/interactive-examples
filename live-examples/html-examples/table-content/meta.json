@@ -8,6 +8,14 @@
             "type": "tabbed",
             "height": "tabbed-standard"
         },
+        "td": {
+            "exampleCode": "./live-examples/html-examples/table-content/td.html",
+            "cssExampleSrc": "./live-examples/html-examples/table-content/css/td.css",
+            "fileName": "td.html",
+            "title": "Демо HTML: <td>",
+            "type": "tabbed",
+            "height": "tabbed-taller"
+        },
         "th": {
             "exampleCode": "./live-examples/html-examples/table-content/th.html",
             "cssExampleSrc": "./live-examples/html-examples/table-content/css/th.css",
