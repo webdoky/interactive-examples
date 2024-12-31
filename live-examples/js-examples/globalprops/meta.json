@@ -1,40 +1,46 @@
 {
-    "pages": {
-        "globalpropsEncodeURIComponent": {
-            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-encodeuricomponent.js",
-            "fileName": "globalprops-encodeuricomponent.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - encodeURIComponent()",
-            "type": "js"
-        },
-        "globalpropsInfinity": {
-            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-infinity.js",
-            "fileName": "globalprops-infinity.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - infinity",
-            "type": "js"
-        },
-        "globalpropsNaN": {
-            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-nan.js",
-            "fileName": "globalprops-nan.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - NaN",
-            "type": "js"
-        },
-        "globalpropsNull": {
-            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-null.js",
-            "fileName": "globalprops-null.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - Null",
-            "type": "js"
-        },
-        "globalpropsParseInt": {
-            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
-            "fileName": "globalprops-parseint.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - parseInt()",
-            "type": "js"
-        },
-        "globalpropsUndefined": {
-            "exampleCode": "./live-examples/js-examples/globalprops/globalprops-undefined.js",
-            "fileName": "globalprops-undefined.html",
-            "title": "Демо JavaScript: Стандартні вбудовані об'єкти - undefined",
-            "type": "js"
-        }
+  "pages": {
+    "globalpropsEncodeURIComponent": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-encodeuricomponent.js",
+      "fileName": "globalprops-encodeuricomponent.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - encodeURIComponent()",
+      "type": "js"
+    },
+    "globalpropsInfinity": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-infinity.js",
+      "fileName": "globalprops-infinity.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - infinity",
+      "type": "js"
+    },
+    "globalpropsIsNaN": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-isnan.js",
+      "fileName": "globalprops-isnan.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - isNaN()",
+      "type": "js"
+    },
+    "globalpropsNaN": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-nan.js",
+      "fileName": "globalprops-nan.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - NaN",
+      "type": "js"
+    },
+    "globalpropsNull": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-null.js",
+      "fileName": "globalprops-null.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - Null",
+      "type": "js"
+    },
+    "globalpropsParseInt": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-parseint.js",
+      "fileName": "globalprops-parseint.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - parseInt()",
+      "type": "js"
+    },
+    "globalpropsUndefined": {
+      "exampleCode": "./live-examples/js-examples/globalprops/globalprops-undefined.js",
+      "fileName": "globalprops-undefined.html",
+      "title": "Демо JavaScript: Стандартні вбудовані об'єкти - undefined",
+      "type": "js"
     }
+  }
 }
