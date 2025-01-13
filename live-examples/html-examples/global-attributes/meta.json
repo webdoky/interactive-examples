@@ -15,6 +15,14 @@
             "title": "Демо HTML: enterkeyhint",
             "type": "tabbed",
             "height": "tabbed-shorter"
+        },
+        "id": {
+            "exampleCode": "./live-examples/html-examples/global-attributes/attribute-id.html",
+            "cssExampleSrc": "./live-examples/html-examples/global-attributes/css/attribute-id.css",
+            "fileName": "attribute-id.html",
+            "title": "Демо HTML: id",
+            "type": "tabbed",
+            "height": "tabbed-shorter"
         }
     }
 }
