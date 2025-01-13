@@ -1,0 +1,11 @@
+{
+    "pages": {
+        "scrollPadding": {
+            "cssExampleSrc": "./live-examples/css-examples/scroll-snap/scroll-padding-top.css",
+            "exampleCode": "./live-examples/css-examples/scroll-snap/scroll-padding.html",
+            "fileName": "scroll-padding.html",
+            "title": "Демо CSS: scroll-padding",
+            "type": "css"
+        }
+    }
+}
