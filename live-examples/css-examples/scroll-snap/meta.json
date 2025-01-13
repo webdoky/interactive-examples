@@ -6,6 +6,13 @@
             "fileName": "scroll-padding.html",
             "title": "Демо CSS: scroll-padding",
             "type": "css"
+        },
+        "scrollPaddingBlock": {
+            "cssExampleSrc": "./live-examples/css-examples/scroll-snap/scroll-padding-top.css",
+            "exampleCode": "./live-examples/css-examples/scroll-snap/scroll-padding-block.html",
+            "fileName": "scroll-padding-block.html",
+            "title": "Демо CSS: scroll-padding-block",
+            "type": "css"
         }
     }
 }
