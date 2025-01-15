@@ -24,6 +24,14 @@
             "type": "tabbed",
             "height": "tabbed-taller"
         },
+        "thead": {
+            "exampleCode": "./live-examples/html-examples/table-content/thead.html",
+            "cssExampleSrc": "./live-examples/html-examples/table-content/css/thead.css",
+            "fileName": "thead.html",
+            "title": "Демо HTML: <thead>",
+            "type": "tabbed",
+            "height": "tabbed-taller"
+        },
         "tr": {
             "exampleCode": "./live-examples/html-examples/table-content/tr.html",
             "cssExampleSrc": "./live-examples/html-examples/table-content/css/tr.css",
